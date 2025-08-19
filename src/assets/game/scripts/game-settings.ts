@@ -1,4 +1,4 @@
-export const GAME_NAME = "StreeWarrior";
+export const GAME_NAME = "StreetWarrior";
 export const settings = {
     id: 142,
     name: GAME_NAME,

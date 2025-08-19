@@ -12,8 +12,8 @@ describe("settings", () => {
         // Assert
         expect(settings).toStrictEqual({
             id: 142,
-            name: "StreeWarrior",
-            tolgeeNamespaces: ["StreeWarrior", "cascadingslot"],
+            name: "StreetWarrior",
+            tolgeeNamespaces: ["StreetWarrior", "cascadingslot"],
             durations: {
                 wholeRound: 14,
                 lockingBet: 3,
@@ -26,7 +26,7 @@ describe("settings", () => {
             },
             isMiniGame: false,
             numberOfRoundHistory: 11,
-            observerNamespace: "StreeWarrior",
+            observerNamespace: "StreetWarrior",
             validateBalanceWhenBet: true,
         });
     });

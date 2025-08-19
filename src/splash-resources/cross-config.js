@@ -1,4 +1,4 @@
 window.crossConfig = {
     backgroundLocalized: false,
-    storagePrefixKey: "stree-warrior",
+    storagePrefixKey: "street-warrior",
 };
