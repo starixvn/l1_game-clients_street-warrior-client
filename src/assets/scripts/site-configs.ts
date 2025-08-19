@@ -15,7 +15,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         localhost: "lumigame.com",
     },
     ssl: true,
-    subDomain: "l2-proxy1",
+    subDomain: "l1-proxy",
     env: "LOCAL",
     subGuideDomain: "l1-guide-2",
     SGConnectSubDomain: "connectsite",
@@ -25,7 +25,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         proxyPath: GAME_NAME.toLowerCase(),
         route: GAME_NAME.toLowerCase(),
     },
-    storagePrefixKey: "wukongs_revenge",
+    storagePrefixKey: "stree-warrior",
     tolgeeUrl: "",
 };
 
