@@ -224,7 +224,16 @@ export const languages = {
         "under_maintenance_time": "從 %{startTime} 到 %{endTime} (GMT+8)",
         "win": "贏",
         "win_loss": "贏 輸",
-        "you_reach_max_win": "您達到了最大勝利"
+        "you_reach_max_win": "您達到了最大勝利",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot",
+        "message_error_claim_expired": "獎金已過期，不再有效。 (%{errorCode})",
+        "pf_header_server_seed_sha256_single": "服務器種子 SHA256",
+        "pf_ header_merge_client_seed_single": "合併客戶種子",
+        "player": "閒家"
     },
     "cascadingslot": {
         "auto_spin": "自動旋轉",
@@ -284,11 +293,19 @@ export const languages = {
         "turbo_mode": "渦輪模式",
         "warning_trial_mode": "真玩，\\n贏真錢",
         "win_tumble_msg": "恭喜！",
-        "you_win_free_spin": "您贏得"
+        "you_win_free_spin": "您贏得",
+        "you_have_won": null,
+        "in_free_spins": null,
+        "free_spins_active": null,
+        "tumble_win": "連續中獎"
     },
     "WukongsRevenge": {
         "game_icon_name": "悟空復仇",
         "game_name": "悟空復仇"
+    },
+    "StreetWarrior": {
+        "game_icon_name": "街頭戰士",
+        "game_name": "街頭戰士"
     }
 };
 

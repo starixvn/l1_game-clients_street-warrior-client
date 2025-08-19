@@ -224,7 +224,16 @@ export const languages = {
         "under_maintenance_time": "A partir de %{startTime} hasta %{endTime} (GMT+8)",
         "win": "Ganar",
         "win_loss": "Ganancia/Pérdida",
-        "you_reach_max_win": "Has alcanzado la ganancia máxima."
+        "you_reach_max_win": "Has alcanzado la ganancia máxima.",
+        "invalid_payline": "invalid_payline",
+        "invalid_bonus": "invalid_bonus",
+        "opened_bonus": "opened_bonus",
+        "invalid_jackpot": "invalid_jackpot",
+        "opened_jackpot": "opened_jackpot",
+        "message_error_claim_expired": "La Bonificación ha expirado. Ya no está disponible. (%{errorCode})",
+        "pf_header_server_seed_sha256_single": "SHA256 de la semilla del servidor",
+        "pf_ header_merge_client_seed_single": "Combinar la semilla del cliente",
+        "player": "Jugador"
     },
     "cascadingslot": {
         "auto_spin": "Giro Automático",
@@ -284,11 +293,19 @@ export const languages = {
         "turbo_mode": "Modo Turbo",
         "warning_trial_mode": "Juega de verdad,\nGana de verdad",
         "win_tumble_msg": "¡FELICIDADES!",
-        "you_win_free_spin": "Ganaste"
+        "you_win_free_spin": "Ganaste",
+        "you_have_won": null,
+        "in_free_spins": null,
+        "free_spins_active": null,
+        "tumble_win": "Ganancia en Cascada"
     },
     "WukongsRevenge": {
         "game_icon_name": "Wukong's Revenge",
         "game_name": "Wukong's Revenge"
+    },
+    "StreetWarrior": {
+        "game_icon_name": "Street Warrior",
+        "game_name": "Street Warrior"
     }
 };
 

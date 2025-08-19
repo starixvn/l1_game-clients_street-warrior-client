@@ -1,0 +1,7 @@
+{
+    "mainNamespace": "StreetWarrior",
+    "additionalNamespaces": [
+        "Common",
+        "cascadingslot"
+    ]
+}
