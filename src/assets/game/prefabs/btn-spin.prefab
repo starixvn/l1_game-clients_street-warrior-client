@@ -436,7 +436,7 @@
     },
     "_fillStart": 0,
     "_fillRange": 0,
-    "_isTrimmedMode": true,
+    "_isTrimmedMode": false,
     "_useGrayscale": false,
     "_atlas": {
       "__uuid__": "cab245b3-fac5-4aa6-bb02-f370c663806f",
@@ -597,7 +597,7 @@
     },
     "_fillStart": 0,
     "_fillRange": 0,
-    "_isTrimmedMode": true,
+    "_isTrimmedMode": false,
     "_useGrayscale": false,
     "_atlas": {
       "__uuid__": "cab245b3-fac5-4aa6-bb02-f370c663806f",

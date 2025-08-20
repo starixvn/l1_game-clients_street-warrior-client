@@ -130,8 +130,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 391,
-      "height": 838
+      "width": 369,
+      "height": 598
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -172,7 +172,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 0,
+    "_sizeMode": 2,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -279,6 +279,7 @@
       "__id__": 0
     },
     "fileId": "3bdpg1fcVEkpbJL8oByJf4",
+    "instance": null,
     "targetOverrides": null
   }
 ]
