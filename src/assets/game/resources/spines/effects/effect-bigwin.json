@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "G8HzymWw6StNm/hqBO8D5XS4U9s", "spine": "3.8.99" },
+"skeleton": { "hash": "Fev0g8zmFfo/ifhIkTRpubYtPpY", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "coinfall", "parent": "root", "y": -2.05, "scaleX": 0.5, "scaleY": 0.5 },
@@ -66,13 +66,14 @@
 	},
 	{ "name": "front-hl-glow", "parent": "root" },
 	{ "name": "characer1", "parent": "root", "y": 50 },
-	{ "name": "money-number", "parent": "root", "y": 214.76 },
+	{ "name": "money-number", "parent": "root", "y": 85 },
 	{ "name": "particle", "parent": "root" },
 	{ "name": "Podium", "parent": "root" },
 	{ "name": "number-bg", "parent": "root" },
 	{ "name": "hololight1", "parent": "root" },
 	{ "name": "hololight2", "parent": "root" },
-	{ "name": "hololight3", "parent": "root" }
+	{ "name": "hololight3", "parent": "root" },
+	{ "name": "text-bigwin", "parent": "root", "y": -30 }
 ],
 "slots": [
 	{ "name": "coin_A_00", "bone": "coin" },
@@ -105,7 +106,7 @@
 	{ "name": "plus4", "bone": "number-bg" },
 	{ "name": "number-bg", "bone": "number-bg" },
 	{ "name": "money-number", "bone": "money-number" },
-	{ "name": "text-bigwin", "bone": "root" }
+	{ "name": "text-bigwin", "bone": "text-bigwin" }
 ],
 "skins": [
 	{
