@@ -1,11 +1,12 @@
 {
-"skeleton": { "hash": "cI5db5PFweWGNHD2d23r+2YSkbE", "spine": "3.8.99" },
+"skeleton": { "hash": "0/nmMXY7nfvVdWSNbPSwP0aLvaI", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root", "y": 5.96 },
-	{ "name": "fire", "parent": "root", "y": 9.33, "scaleX": 4.5, "scaleY": 4.5 },
-	{ "name": "fire2", "parent": "root", "y": 9.33, "scaleX": 4.5, "scaleY": 4.5 }
+	{ "name": "fire", "parent": "root", "y": 11.44, "scaleX": 4.5, "scaleY": 4.5 },
+	{ "name": "fire2", "parent": "root", "y": 11.44, "scaleX": 4.5, "scaleY": 4.5 }
 ],
 "slots": [
+	{ "name": "bg-mask", "bone": "root", "attachment": "bg-mask" },
 	{ "name": "bg-freespin", "bone": "root" },
 	{ "name": "bg-freespin2", "bone": "root", "blend": "additive" },
 	{ "name": "fire", "bone": "fire", "blend": "screen" },
@@ -20,6 +21,14 @@
 			},
 			"bg-freespin2": {
 				"bg-freespin": { "width": 1398, "height": 786 }
+			},
+			"bg-mask": {
+				"bg-mask": {
+					"type": "clipping",
+					"end": "bg-mask",
+					"vertexCount": 4,
+					"vertices": [ -698.78, -393.21, 698.97, -393, 698.96, 393, -699.03, 393 ]
+				}
 			},
 			"fire": {
 				"fire2/fire_00": { "width": 320, "height": 180 },
