@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "N1zCA8m3+OVNvylu8TWqi44n4vQ", "spine": "3.8.99" },
+"skeleton": { "hash": "QhNYy+43IKgqnlD4EK1julMwF5s", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "coinfall", "parent": "root", "y": -2.05, "scaleX": 0.5, "scaleY": 0.5 },
@@ -96,9 +96,9 @@
 	{ "name": "characer2", "bone": "characer2" },
 	{ "name": "front-hl-glow", "bone": "front-hl-glow", "blend": "additive" },
 	{ "name": "hologram", "bone": "characer2", "color": "ffffff64", "blend": "additive" },
-	{ "name": "hololight1", "bone": "hololight1", "blend": "screen" },
-	{ "name": "hololight2", "bone": "hololight2", "blend": "screen" },
-	{ "name": "hololight3", "bone": "hololight3", "blend": "screen" },
+	{ "name": "hololight1", "bone": "hololight1", "blend": "additive" },
+	{ "name": "hololight2", "bone": "hololight2", "blend": "additive" },
+	{ "name": "hololight3", "bone": "hololight3", "blend": "additive" },
 	{ "name": "plus", "bone": "number-bg" },
 	{ "name": "plus2", "bone": "number-bg" },
 	{ "name": "plus3", "bone": "number-bg" },
