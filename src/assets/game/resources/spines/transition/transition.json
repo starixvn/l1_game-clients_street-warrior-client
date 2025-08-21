@@ -1,108 +1,392 @@
 {
-"skeleton": { "hash": "UpNeyAXzt8Bs+3U+ZsfUo0jYnUs", "spine": "3.8.99", "images": "./images/", "audio": "" },
-"bones": [
-	{ "name": "root", "scaleX": 2, "scaleY": 2 },
-	{ "name": "bone", "parent": "root", "scaleX": 3, "scaleY": 3 }
-],
-"slots": [
-	{ "name": "ui", "bone": "root" },
-	{ "name": "transition", "bone": "bone", "blend": "additive" }
-],
-"skins": [
-	{
-		"name": "default",
-		"attachments": {
-			"transition": {
-				"energy3/energy_00": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_01": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_02": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_03": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_04": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_05": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_06": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_07": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_08": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_09": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_10": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_11": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_12": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_13": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_14": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_15": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_16": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_17": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_18": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_19": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_20": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_21": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_22": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_23": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_24": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_25": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_26": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_27": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_28": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_29": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_30": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_31": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_32": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_33": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_34": { "x": 0.17, "width": 466, "height": 262 },
-				"energy3/energy_35": { "x": 0.5, "width": 466, "height": 262 }
+	"skeleton": {
+		"hash": "UpNeyAXzt8Bs+3U+ZsfUo0jYnUs",
+		"spine": "3.8.99",
+		"images": "./images/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root",
+			"scaleX": 2,
+			"scaleY": 2
+		},
+		{
+			"name": "bone",
+			"parent": "root",
+			"scaleX": 3,
+			"scaleY": 3
+		}
+	],
+	"slots": [
+		{
+			"name": "ui",
+			"bone": "root"
+		},
+		{
+			"name": "transition",
+			"bone": "bone",
+			"blend": "additive"
+		}
+	],
+	"skins": [
+		{
+			"name": "default",
+			"attachments": {
+				"transition": {
+					"energy3/energy_00": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_01": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_02": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_03": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_04": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_05": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_06": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_07": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_08": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_09": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_10": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_11": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_12": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_13": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_14": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_15": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_16": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_17": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_18": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_19": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_20": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_21": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_22": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_23": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_24": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_25": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_26": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_27": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_28": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_29": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_30": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_31": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_32": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_33": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_34": {
+						"x": 0.17,
+						"width": 466,
+						"height": 262
+					},
+					"energy3/energy_35": {
+						"x": 0.5,
+						"width": 466,
+						"height": 262
+					}
+				}
+			}
+		}
+	],
+	"animations": {
+		"transition": {
+			"slots": {
+				"transition": {
+					"color": [
+						{
+							"color": "ffffff00"
+						},
+						{
+							"time": 0.1,
+							"color": "ffffffff",
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"color": "ffffffff"
+						},
+						{
+							"time": 1.1667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"name": "energy3/energy_00"
+						},
+						{
+							"time": 0.0333,
+							"name": "energy3/energy_01"
+						},
+						{
+							"time": 0.0667,
+							"name": "energy3/energy_02"
+						},
+						{
+							"time": 0.1,
+							"name": "energy3/energy_03"
+						},
+						{
+							"time": 0.1333,
+							"name": "energy3/energy_04"
+						},
+						{
+							"time": 0.1667,
+							"name": "energy3/energy_05"
+						},
+						{
+							"time": 0.2,
+							"name": "energy3/energy_06"
+						},
+						{
+							"time": 0.2333,
+							"name": "energy3/energy_07"
+						},
+						{
+							"time": 0.2667,
+							"name": "energy3/energy_08"
+						},
+						{
+							"time": 0.3,
+							"name": "energy3/energy_09"
+						},
+						{
+							"time": 0.3333,
+							"name": "energy3/energy_10"
+						},
+						{
+							"time": 0.3667,
+							"name": "energy3/energy_11"
+						},
+						{
+							"time": 0.4,
+							"name": "energy3/energy_12"
+						},
+						{
+							"time": 0.4333,
+							"name": "energy3/energy_13"
+						},
+						{
+							"time": 0.4667,
+							"name": "energy3/energy_14"
+						},
+						{
+							"time": 0.5,
+							"name": "energy3/energy_15"
+						},
+						{
+							"time": 0.5333,
+							"name": "energy3/energy_16"
+						},
+						{
+							"time": 0.5667,
+							"name": "energy3/energy_17"
+						},
+						{
+							"time": 0.6,
+							"name": "energy3/energy_18"
+						},
+						{
+							"time": 0.6333,
+							"name": "energy3/energy_19"
+						},
+						{
+							"time": 0.6667,
+							"name": "energy3/energy_20"
+						},
+						{
+							"time": 0.7,
+							"name": "energy3/energy_21"
+						},
+						{
+							"time": 0.7333,
+							"name": "energy3/energy_22"
+						},
+						{
+							"time": 0.7667,
+							"name": "energy3/energy_23"
+						},
+						{
+							"time": 0.8,
+							"name": "energy3/energy_24"
+						},
+						{
+							"time": 0.8333,
+							"name": "energy3/energy_25"
+						},
+						{
+							"time": 0.8667,
+							"name": "energy3/energy_26"
+						},
+						{
+							"time": 0.9,
+							"name": "energy3/energy_27"
+						},
+						{
+							"time": 0.9333,
+							"name": "energy3/energy_28"
+						},
+						{
+							"time": 0.9667,
+							"name": "energy3/energy_29"
+						},
+						{
+							"time": 1,
+							"name": "energy3/energy_30"
+						},
+						{
+							"time": 1.0333,
+							"name": "energy3/energy_31"
+						},
+						{
+							"time": 1.0667,
+							"name": "energy3/energy_32"
+						},
+						{
+							"time": 1.1,
+							"name": "energy3/energy_33"
+						},
+						{
+							"time": 1.1333,
+							"name": "energy3/energy_34"
+						},
+						{
+							"time": 1.1667,
+							"name": "energy3/energy_35"
+						}
+					]
+				}
 			}
 		}
 	}
-],
-"animations": {
-	"show": {
-		"slots": {
-			"transition": {
-				"color": [
-					{ "color": "ffffff00" },
-					{ "time": 0.1, "color": "ffffffff", "curve": "stepped" },
-					{ "time": 1, "color": "ffffffff" },
-					{ "time": 1.1667, "color": "ffffff00" }
-				],
-				"attachment": [
-					{ "name": "energy3/energy_00" },
-					{ "time": 0.0333, "name": "energy3/energy_01" },
-					{ "time": 0.0667, "name": "energy3/energy_02" },
-					{ "time": 0.1, "name": "energy3/energy_03" },
-					{ "time": 0.1333, "name": "energy3/energy_04" },
-					{ "time": 0.1667, "name": "energy3/energy_05" },
-					{ "time": 0.2, "name": "energy3/energy_06" },
-					{ "time": 0.2333, "name": "energy3/energy_07" },
-					{ "time": 0.2667, "name": "energy3/energy_08" },
-					{ "time": 0.3, "name": "energy3/energy_09" },
-					{ "time": 0.3333, "name": "energy3/energy_10" },
-					{ "time": 0.3667, "name": "energy3/energy_11" },
-					{ "time": 0.4, "name": "energy3/energy_12" },
-					{ "time": 0.4333, "name": "energy3/energy_13" },
-					{ "time": 0.4667, "name": "energy3/energy_14" },
-					{ "time": 0.5, "name": "energy3/energy_15" },
-					{ "time": 0.5333, "name": "energy3/energy_16" },
-					{ "time": 0.5667, "name": "energy3/energy_17" },
-					{ "time": 0.6, "name": "energy3/energy_18" },
-					{ "time": 0.6333, "name": "energy3/energy_19" },
-					{ "time": 0.6667, "name": "energy3/energy_20" },
-					{ "time": 0.7, "name": "energy3/energy_21" },
-					{ "time": 0.7333, "name": "energy3/energy_22" },
-					{ "time": 0.7667, "name": "energy3/energy_23" },
-					{ "time": 0.8, "name": "energy3/energy_24" },
-					{ "time": 0.8333, "name": "energy3/energy_25" },
-					{ "time": 0.8667, "name": "energy3/energy_26" },
-					{ "time": 0.9, "name": "energy3/energy_27" },
-					{ "time": 0.9333, "name": "energy3/energy_28" },
-					{ "time": 0.9667, "name": "energy3/energy_29" },
-					{ "time": 1, "name": "energy3/energy_30" },
-					{ "time": 1.0333, "name": "energy3/energy_31" },
-					{ "time": 1.0667, "name": "energy3/energy_32" },
-					{ "time": 1.1, "name": "energy3/energy_33" },
-					{ "time": 1.1333, "name": "energy3/energy_34" },
-					{ "time": 1.1667, "name": "energy3/energy_35" }
-				]
-			}
-		}
-	}
-}
 }
