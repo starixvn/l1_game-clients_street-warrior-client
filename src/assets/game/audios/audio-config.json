@@ -112,5 +112,9 @@
     "peek-effect-shift": {
         "bundle": "resources",
         "isLazyLoad": true
+    },
+    "transform-freespins": {
+        "bundle": "resources",
+        "isLazyLoad": true
     }
 }
