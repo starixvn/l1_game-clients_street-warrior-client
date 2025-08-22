@@ -528,7 +528,7 @@
             <key>size</key>
             <string>{512,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:41c1fa4b07ef7fb05dc7f9adecef12c1:8c54a58273beebb63148aca33edf2e5a:40ee7df176381dd4082d4248ef6d2be1$</string>
+            <string>$TexturePacker:SmartUpdate:68301c072f3c2eec7cb55d943050577b:c6f926c5adfc9f99e6904fd3a572c3c9:40ee7df176381dd4082d4248ef6d2be1$</string>
             <key>textureFileName</key>
             <string>standard-cascading-slot.webp</string>
         </dict>
