@@ -116,5 +116,9 @@
     "transform-freespins": {
         "bundle": "resources",
         "isLazyLoad": true
+    },
+    "click-symbol": {
+        "bundle": "resources",
+        "isLazyLoad": true
     }
 }
