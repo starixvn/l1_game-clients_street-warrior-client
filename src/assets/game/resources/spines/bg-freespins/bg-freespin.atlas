@@ -437,7 +437,7 @@ size: 1400,788
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-bg-freespin
+bg-freespin2
   rotate: false
   xy: 1, 1
   size: 1398, 786

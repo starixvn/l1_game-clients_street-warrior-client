@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "0/nmMXY7nfvVdWSNbPSwP0aLvaI", "spine": "3.8.99" },
+"skeleton": { "hash": "X5Tid7YxgZ1SuuDQaqnk4Qd1OJk", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root", "y": 5.96 },
 	{ "name": "fire", "parent": "root", "y": 11.44, "scaleX": 4.5, "scaleY": 4.5 },
@@ -17,10 +17,10 @@
 		"name": "default",
 		"attachments": {
 			"bg-freespin": {
-				"bg-freespin": { "width": 1398, "height": 786 }
+				"bg-freespin2": { "width": 1398, "height": 786 }
 			},
 			"bg-freespin2": {
-				"bg-freespin": { "width": 1398, "height": 786 }
+				"bg-freespin2": { "width": 1398, "height": 786 }
 			},
 			"bg-mask": {
 				"bg-mask": {
@@ -164,7 +164,7 @@
 		"slots": {
 			"bg-freespin": {
 				"attachment": [
-					{ "name": "bg-freespin" }
+					{ "name": "bg-freespin2" }
 				]
 			},
 			"bg-freespin2": {
@@ -177,7 +177,7 @@
 					{ "time": 3.3333, "color": "ffffff80" }
 				],
 				"attachment": [
-					{ "name": "bg-freespin" }
+					{ "name": "bg-freespin2" }
 				]
 			},
 			"fire": {
