@@ -24,4 +24,5 @@ export enum AudioIds {
     WINNING_LEVEL_UP = "winning-level-up",
     FREESPINS_BONUS = "freespins-bonus",
     CLICK_SYMBOL = "click-symbol",
+    MULTIPLIER_SHOW = "multiplier-show",
 }

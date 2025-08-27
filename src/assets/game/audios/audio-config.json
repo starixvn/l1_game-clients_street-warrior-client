@@ -113,11 +113,15 @@
         "bundle": "resources",
         "isLazyLoad": true
     },
-    "transform-freespins": {
+    "freespins-bonus": {
         "bundle": "resources",
         "isLazyLoad": true
     },
     "click-symbol": {
+        "bundle": "resources",
+        "isLazyLoad": true
+    },
+    "multiplier-show": {
         "bundle": "resources",
         "isLazyLoad": true
     }
