@@ -1,537 +1,537 @@
 
 symbol.webp
-size: 2013,459
+size: 1653,523
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 C1
   rotate: false
-  xy: 63, 27
+  xy: 297, 318
   size: 39, 12
   orig: 112, 112
   offset: 0, 100
   index: -1
 C2
   rotate: false
-  xy: 63, 9
+  xy: 338, 318
   size: 39, 12
   orig: 112, 112
   offset: 73, 100
   index: -1
 C3
   rotate: false
-  xy: 108, 28
+  xy: 474, 1
   size: 38, 11
   orig: 112, 112
   offset: 0, 0
   index: -1
 C4
   rotate: false
-  xy: 108, 11
+  xy: 514, 1
   size: 38, 11
   orig: 112, 112
   offset: 74, 0
   index: -1
 SCATTER2
   rotate: false
-  xy: 390, 263
+  xy: 257, 126
   size: 110, 41
   orig: 110, 41
   offset: 0, 0
   index: -1
 SCATTER2-glow
   rotate: false
-  xy: 506, 274
+  xy: 369, 126
   size: 110, 41
   orig: 110, 41
   offset: 0, 0
   index: -1
 armor1
-  rotate: true
-  xy: 3, 8
+  rotate: false
+  xy: 208, 318
   size: 31, 54
   orig: 31, 54
   offset: 0, 0
   index: -1
 armor2
   rotate: false
-  xy: 330, 254
+  xy: 241, 329
   size: 54, 43
   orig: 54, 43
   offset: 0, 0
   index: -1
 bling
-  rotate: true
-  xy: 503, 321
+  rotate: false
+  xy: 337, 2
   size: 135, 122
   orig: 135, 122
   offset: 0, 0
   index: -1
 blink
   rotate: false
-  xy: 1916, 146
+  xy: 833, 1
   size: 73, 73
   orig: 110, 110
   offset: 18, 19
   index: -1
 border2
   rotate: false
-  xy: 698, 159
+  xy: 1, 3
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 character-5
   rotate: false
-  xy: 264, 98
+  xy: 257, 169
   size: 135, 147
   orig: 147, 147
   offset: 0, 0
   index: -1
 character-6
-  rotate: true
-  xy: 214, 303
+  rotate: false
+  xy: 353, 386
   size: 153, 136
   orig: 162, 162
   offset: 9, 0
   index: -1
 character-6-eye
-  rotate: true
-  xy: 152, 12
+  rotate: false
+  xy: 254, 318
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 character-7
   rotate: false
-  xy: 562, 138
+  xy: 394, 212
   size: 130, 130
   orig: 150, 150
   offset: 20, 0
   index: -1
 character-7-chain
-  rotate: true
-  xy: 484, 126
+  rotate: false
+  xy: 908, 2
   size: 131, 72
   orig: 150, 150
   offset: 6, 0
   index: -1
 character-7-chain-glow
-  rotate: true
-  xy: 405, 124
+  rotate: false
+  xy: 698, 1
   size: 133, 73
   orig: 150, 150
   offset: 5, 0
   index: -1
 character-8
   rotate: false
-  xy: 3, 251
+  xy: 1, 317
   size: 205, 205
   orig: 205, 205
   offset: 0, 0
   index: -1
 character-9
   rotate: false
-  xy: 1637, 114
+  xy: 1307, 412
   size: 108, 110
   orig: 108, 110
   offset: 0, 0
   index: -1
 character-9-glow
   rotate: false
-  xy: 1742, 230
+  xy: 1146, 76
   size: 108, 110
   orig: 108, 110
   offset: 0, 0
   index: -1
 circle light
   rotate: false
-  xy: 356, 310
-  size: 141, 146
+  xy: 208, 374
+  size: 143, 148
   orig: 150, 148
-  offset: 8, 1
+  offset: 7, 0
   index: -1
 explode2/explosion_00
   rotate: false
-  xy: 631, 346
+  xy: 113, 3
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_01
   rotate: false
-  xy: 747, 346
+  xy: 225, 3
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_02
   rotate: false
-  xy: 863, 346
+  xy: 474, 14
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_03
   rotate: false
-  xy: 709, 43
+  xy: 635, 412
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_04
   rotate: false
-  xy: 814, 184
+  xy: 573, 152
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_05
   rotate: false
-  xy: 825, 68
+  xy: 640, 300
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_06
   rotate: false
-  xy: 930, 230
+  xy: 747, 412
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_07
   rotate: false
-  xy: 979, 346
+  xy: 586, 40
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_08
   rotate: false
-  xy: 941, 114
+  xy: 685, 188
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_09
   rotate: false
-  xy: 1046, 230
+  xy: 752, 300
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_10
   rotate: false
-  xy: 1095, 346
+  xy: 859, 412
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_11
   rotate: false
-  xy: 1057, 114
+  xy: 698, 76
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_12
   rotate: false
-  xy: 1162, 230
+  xy: 797, 188
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_13
   rotate: false
-  xy: 1211, 346
+  xy: 864, 300
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_14
   rotate: false
-  xy: 1173, 114
+  xy: 971, 412
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_15
   rotate: false
-  xy: 1278, 230
+  xy: 810, 76
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_16
   rotate: false
-  xy: 1327, 346
+  xy: 909, 188
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_17
   rotate: false
-  xy: 1289, 114
+  xy: 976, 300
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_18
   rotate: false
-  xy: 1394, 230
+  xy: 1083, 412
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_19
   rotate: false
-  xy: 1443, 346
+  xy: 922, 76
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_20
   rotate: false
-  xy: 1405, 114
+  xy: 1021, 188
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_21
   rotate: false
-  xy: 1510, 230
+  xy: 1088, 300
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_22
   rotate: false
-  xy: 1559, 346
+  xy: 1195, 412
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_23
   rotate: false
-  xy: 1521, 114
+  xy: 1034, 76
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_24
   rotate: false
-  xy: 1626, 230
+  xy: 1133, 188
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 explode2/explosion_25
   rotate: false
-  xy: 1675, 346
+  xy: 1200, 300
   size: 110, 110
   orig: 110, 110
   offset: 0, 0
   index: -1
 flare
   rotate: false
-  xy: 3, 45
+  xy: 1, 115
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 green-energy
-  rotate: true
-  xy: 214, 251
+  rotate: false
+  xy: 1245, 188
   size: 46, 110
   orig: 46, 110
   offset: 0, 0
   index: -1
 highlight
   rotate: false
-  xy: 209, 47
-  size: 49, 198
+  xy: 203, 115
+  size: 52, 200
   orig: 58, 200
-  offset: 4, 1
+  offset: 3, 0
   index: -1
 light-shirt1
-  rotate: true
-  xy: 152, 28
+  rotate: false
+  xy: 241, 318
   size: 11, 9
   orig: 112, 112
   offset: 71, 19
   index: -1
 ribbon1
   rotate: false
-  xy: 798, 300
+  xy: 392, 344
   size: 85, 40
   orig: 85, 40
   offset: 0, 0
   index: -1
 ribbon2
   rotate: false
-  xy: 622, 275
+  xy: 297, 332
   size: 93, 40
   orig: 93, 40
   offset: 0, 0
   index: -1
 sword1b
   rotate: false
-  xy: 1480, 5
+  xy: 1418, 311
   size: 100, 103
   orig: 110, 110
   offset: 1, 4
   index: -1
 sword1b-glow
   rotate: false
-  xy: 579, 5
-  size: 124, 127
+  xy: 508, 394
+  size: 125, 128
   orig: 130, 130
   offset: 0, 1
   index: -1
 sword2b
   rotate: false
-  xy: 941, 3
+  xy: 1399, 197
   size: 85, 105
   orig: 110, 110
   offset: 13, 0
   index: -1
 sword2b-glow
-  rotate: true
-  xy: 445, 8
-  size: 110, 128
+  rotate: false
+  xy: 526, 264
+  size: 112, 128
   orig: 115, 128
-  offset: 2, 0
+  offset: 1, 0
   index: -1
 symbol-0
   rotate: false
-  xy: 1751, 143
-  size: 79, 81
+  xy: 1566, 348
+  size: 80, 82
   orig: 110, 110
-  offset: 16, 15
+  offset: 15, 14
   index: -1
 symbol-10b
   rotate: false
-  xy: 1903, 382
+  xy: 1272, 2
   size: 78, 74
   orig: 110, 110
   offset: 16, 18
   index: -1
 symbol-10b-glow
   rotate: false
-  xy: 1903, 305
-  size: 76, 71
+  xy: 1041, 2
+  size: 77, 72
   orig: 110, 110
-  offset: 26, 30
+  offset: 25, 30
   index: -1
 symbol-11b
-  rotate: true
-  xy: 1772, 62
+  rotate: false
+  xy: 1352, 2
   size: 75, 74
   orig: 110, 110
   offset: 18, 18
   index: -1
 symbol-11b-glow
-  rotate: true
-  xy: 1852, 68
-  size: 72, 68
+  rotate: false
+  xy: 1196, 5
+  size: 74, 69
   orig: 110, 110
-  offset: 28, 31
+  offset: 27, 31
   index: -1
 symbol-12b
   rotate: false
-  xy: 1836, 150
+  xy: 1566, 272
   size: 74, 74
   orig: 110, 110
   offset: 19, 18
   index: -1
 symbol-12b-glow
   rotate: false
-  xy: 1926, 72
-  size: 72, 68
+  xy: 1562, 201
+  size: 73, 69
   orig: 110, 110
-  offset: 29, 31
+  offset: 28, 31
   index: -1
 symbol-13b
   rotate: false
-  xy: 1936, 225
+  xy: 1486, 235
   size: 74, 74
   orig: 110, 110
   offset: 18, 18
   index: -1
 symbol-13b-glow
   rotate: false
-  xy: 1856, 230
-  size: 74, 69
+  xy: 1120, 3
+  size: 74, 71
   orig: 110, 110
-  offset: 25, 31
+  offset: 25, 30
   index: -1
 symbol-2
-  rotate: true
-  xy: 264, 6
+  rotate: false
+  xy: 1517, 12
   size: 86, 90
   orig: 110, 110
   offset: 12, 10
   index: -1
 symbol-2a
   rotate: false
-  xy: 721, 280
-  size: 71, 60
+  xy: 1566, 432
+  size: 86, 90
   orig: 110, 110
-  offset: 19, 30
+  offset: 12, 10
   index: -1
 symbol-3
-  rotate: true
-  xy: 360, 6
+  rotate: false
+  xy: 1429, 3
   size: 86, 79
   orig: 86, 79
   offset: 0, 0
   index: -1
 symbol-3a
-  rotate: true
-  xy: 1683, 18
+  rotate: false
+  xy: 481, 127
   size: 90, 83
   orig: 96, 89
   offset: 3, 3
   index: -1
 symbol-4
-  rotate: true
-  xy: 1586, 14
+  rotate: false
+  xy: 1470, 104
   size: 94, 91
   orig: 110, 110
   offset: 8, 9
   index: -1
 symbol5-bg
-  rotate: true
-  xy: 1032, 4
+  rotate: false
+  xy: 1293, 192
   size: 104, 106
   orig: 104, 106
   offset: 0, 0
   index: -1
 symbol6-bg
-  rotate: true
-  xy: 1144, 4
+  rotate: false
+  xy: 1312, 304
   size: 104, 106
   orig: 104, 106
   offset: 0, 0
   index: -1
 symbol7-bg
-  rotate: true
-  xy: 1256, 4
+  rotate: false
+  xy: 1417, 416
   size: 104, 106
   orig: 104, 106
   offset: 0, 0
   index: -1
 symbol8-bg
   rotate: false
-  xy: 1791, 348
+  xy: 1256, 78
   size: 106, 108
   orig: 112, 112
   offset: 3, 2
   index: -1
 symbol9-bg
-  rotate: true
-  xy: 1368, 4
+  rotate: false
+  xy: 1364, 84
   size: 104, 106
   orig: 104, 106
   offset: 0, 0
