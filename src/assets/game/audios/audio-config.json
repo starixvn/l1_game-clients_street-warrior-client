@@ -113,7 +113,7 @@
         "bundle": "resources",
         "isLazyLoad": true
     },
-    "freespins-bonus": {
+    "bgm-feature": {
         "bundle": "resources",
         "isLazyLoad": true
     },
@@ -121,7 +121,11 @@
         "bundle": "resources",
         "isLazyLoad": true
     },
-    "multiplier-show": {
+    "multiplier-land": {
+        "bundle": "resources",
+        "isLazyLoad": true
+    },
+    "winning-level-up": {
         "bundle": "resources",
         "isLazyLoad": true
     }
