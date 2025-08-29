@@ -39,7 +39,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0,
+      "y": -190,
       "z": 0
     },
     "_lrot": {
@@ -79,13 +79,13 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 409.1499938964844,
-      "height": 828.1400146484375
+      "width": 100,
+      "height": 100
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0.3688622764763583,
-      "y": 0.429842774077062
+      "x": 0.5,
+      "y": 0.5
     },
     "_id": ""
   },
@@ -107,10 +107,6 @@
     },
     "spineMascot": {
       "__id__": 6
-    },
-    "gameInfo": {
-      "__uuid__": "5f4849f3-ae3e-4ff1-a0e5-18c01ece03dc",
-      "__expectedType__": "cc.JsonAsset"
     },
     "_id": ""
   },
@@ -145,7 +141,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "",
+    "defaultAnimation": "<None>",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,

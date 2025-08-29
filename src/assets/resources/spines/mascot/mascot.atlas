@@ -1,13 +1,1436 @@
 
-mascot.webp
-size: 371,598
+mascot.png
+size: 1995,1806
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-body
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0016
   rotate: false
-  xy: 1, 1
-  size: 369, 596
-  orig: 369, 596
+  xy: 2, 1355
+  size: 605, 449
+  orig: 795, 449
+  offset: 125, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0018
+  rotate: false
+  xy: 609, 1355
+  size: 624, 449
+  orig: 795, 449
+  offset: 106, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0020
+  rotate: false
+  xy: 1235, 1355
+  size: 649, 449
+  orig: 795, 449
+  offset: 81, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0022
+  rotate: false
+  xy: 2, 904
+  size: 660, 449
+  orig: 795, 449
+  offset: 70, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0024
+  rotate: false
+  xy: 664, 904
+  size: 663, 449
+  orig: 795, 449
+  offset: 67, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0026
+  rotate: false
+  xy: 1329, 904
+  size: 663, 449
+  orig: 795, 449
+  offset: 67, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0028
+  rotate: false
+  xy: 2, 453
+  size: 663, 449
+  orig: 795, 449
+  offset: 67, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0030
+  rotate: false
+  xy: 667, 453
+  size: 662, 449
+  orig: 795, 449
+  offset: 67, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0032
+  rotate: false
+  xy: 1331, 453
+  size: 662, 449
+  orig: 795, 449
+  offset: 68, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0034
+  rotate: false
+  xy: 2, 2
+  size: 626, 449
+  orig: 795, 449
+  offset: 104, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0036
+  rotate: false
+  xy: 630, 2
+  size: 555, 449
+  orig: 795, 449
+  offset: 175, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0038
+  rotate: false
+  xy: 1187, 2
+  size: 549, 449
+  orig: 795, 449
+  offset: 181, 0
+  index: -1
+
+mascot2.png
+size: 1971,1806
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0048
+  rotate: false
+  xy: 1300, 453
+  size: 615, 449
+  orig: 795, 449
+  offset: 114, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0050
+  rotate: false
+  xy: 1325, 1355
+  size: 644, 449
+  orig: 795, 449
+  offset: 85, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0052
+  rotate: false
+  xy: 666, 1355
+  size: 657, 449
+  orig: 795, 449
+  offset: 73, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0054
+  rotate: false
+  xy: 2, 904
+  size: 658, 449
+  orig: 795, 449
+  offset: 71, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0056
+  rotate: false
+  xy: 2, 1355
+  size: 662, 449
+  orig: 795, 449
+  offset: 68, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0058
+  rotate: false
+  xy: 662, 904
+  size: 645, 449
+  orig: 795, 449
+  offset: 85, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0066
+  rotate: false
+  xy: 2, 453
+  size: 654, 449
+  orig: 795, 449
+  offset: 73, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0068
+  rotate: false
+  xy: 1274, 2
+  size: 607, 449
+  orig: 795, 449
+  offset: 115, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0070
+  rotate: false
+  xy: 645, 2
+  size: 627, 449
+  orig: 795, 449
+  offset: 99, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0072
+  rotate: false
+  xy: 1309, 904
+  size: 639, 449
+  orig: 795, 449
+  offset: 91, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0074
+  rotate: false
+  xy: 658, 453
+  size: 640, 449
+  orig: 795, 449
+  offset: 89, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0076
+  rotate: false
+  xy: 2, 2
+  size: 641, 449
+  orig: 795, 449
+  offset: 89, 0
+  index: -1
+
+mascot3.png
+size: 1806,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0040
+  rotate: true
+  xy: 1355, 485
+  size: 549, 449
+  orig: 795, 449
+  offset: 181, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0042
+  rotate: false
+  xy: 1137, 24
+  size: 557, 449
+  orig: 795, 449
+  offset: 172, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0044
+  rotate: true
+  xy: 453, 471
+  size: 563, 449
+  orig: 795, 449
+  offset: 165, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0046
+  rotate: true
+  xy: 2, 453
+  size: 581, 449
+  orig: 795, 449
+  offset: 148, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0060
+  rotate: false
+  xy: 2, 2
+  size: 571, 449
+  orig: 795, 449
+  offset: 159, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0062
+  rotate: true
+  xy: 904, 475
+  size: 559, 449
+  orig: 795, 449
+  offset: 171, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0064
+  rotate: false
+  xy: 575, 20
+  size: 560, 449
+  orig: 795, 449
+  offset: 169, 0
+  index: -1
+
+mascot4.png
+size: 1874,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0064
+  rotate: true
+  xy: 2, 3
+  size: 383, 495
+  orig: 875, 495
+  offset: 231, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0018
+  rotate: false
+  xy: 1250, 1635
+  size: 621, 411
+  orig: 752, 425
+  offset: 131, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0020
+  rotate: true
+  xy: 624, 596
+  size: 623, 402
+  orig: 752, 425
+  offset: 129, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0022
+  rotate: false
+  xy: 624, 1221
+  size: 622, 405
+  orig: 752, 425
+  offset: 129, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0024
+  rotate: false
+  xy: 1250, 1226
+  size: 622, 407
+  orig: 752, 425
+  offset: 130, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0026
+  rotate: false
+  xy: 2, 1218
+  size: 620, 408
+  orig: 752, 425
+  offset: 132, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0028
+  rotate: false
+  xy: 1248, 816
+  size: 616, 408
+  orig: 752, 425
+  offset: 136, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0030
+  rotate: false
+  xy: 2, 807
+  size: 612, 409
+  orig: 752, 425
+  offset: 140, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0032
+  rotate: true
+  xy: 1028, 208
+  size: 606, 410
+  orig: 752, 425
+  offset: 146, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0038
+  rotate: true
+  xy: 602, 2
+  size: 592, 416
+  orig: 752, 425
+  offset: 160, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0040
+  rotate: false
+  xy: 2, 388
+  size: 598, 417
+  orig: 752, 425
+  offset: 154, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0042
+  rotate: true
+  xy: 1440, 206
+  size: 608, 408
+  orig: 752, 425
+  offset: 144, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0044
+  rotate: false
+  xy: 630, 1628
+  size: 618, 418
+  orig: 752, 425
+  offset: 134, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0046
+  rotate: false
+  xy: 2, 1628
+  size: 626, 418
+  orig: 752, 425
+  offset: 126, 0
+  index: -1
+
+mascot5.png
+size: 1944,1956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0056
+  rotate: true
+  xy: 1412, 1592
+  size: 362, 462
+  orig: 875, 495
+  offset: 243, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0058
+  rotate: true
+  xy: 1472, 1209
+  size: 381, 470
+  orig: 875, 495
+  offset: 237, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0060
+  rotate: true
+  xy: 959, 827
+  size: 389, 492
+  orig: 875, 495
+  offset: 238, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0062
+  rotate: true
+  xy: 494, 1233
+  size: 370, 481
+  orig: 875, 495
+  offset: 245, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0072
+  rotate: true
+  xy: 2, 30
+  size: 412, 485
+  orig: 875, 495
+  offset: 260, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0078
+  rotate: true
+  xy: 2, 1644
+  size: 310, 462
+  orig: 875, 495
+  offset: 318, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0080
+  rotate: true
+  xy: 2, 1263
+  size: 364, 490
+  orig: 875, 495
+  offset: 311, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0082
+  rotate: true
+  xy: 2, 876
+  size: 385, 461
+  orig: 875, 495
+  offset: 332, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0086
+  rotate: true
+  xy: 466, 1629
+  size: 325, 465
+  orig: 875, 495
+  offset: 313, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0088
+  rotate: true
+  xy: 933, 1605
+  size: 349, 477
+  orig: 875, 495
+  offset: 299, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0090
+  rotate: true
+  xy: 977, 1218
+  size: 372, 493
+  orig: 875, 495
+  offset: 280, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0092
+  rotate: true
+  xy: 465, 848
+  size: 383, 492
+  orig: 875, 495
+  offset: 262, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0094
+  rotate: true
+  xy: 2, 444
+  size: 402, 495
+  orig: 875, 495
+  offset: 250, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0096
+  rotate: true
+  xy: 1453, 813
+  size: 394, 482
+  orig: 875, 495
+  offset: 237, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0008
+  rotate: false
+  xy: 1096, 2
+  size: 567, 405
+  orig: 752, 425
+  offset: 185, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0016
+  rotate: false
+  xy: 499, 423
+  size: 616, 402
+  orig: 752, 425
+  offset: 136, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0034
+  rotate: false
+  xy: 489, 18
+  size: 605, 403
+  orig: 752, 425
+  offset: 147, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0036
+  rotate: false
+  xy: 1117, 409
+  size: 615, 402
+  orig: 752, 425
+  offset: 137, 0
+  index: -1
+
+mascot6.png
+size: 1548,1317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0066
+  rotate: false
+  xy: 447, 13
+  size: 451, 472
+  orig: 875, 495
+  offset: 190, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0068
+  rotate: true
+  xy: 900, 14
+  size: 415, 464
+  orig: 875, 495
+  offset: 226, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0070
+  rotate: false
+  xy: 2, 2
+  size: 443, 495
+  orig: 875, 495
+  offset: 264, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0074
+  rotate: true
+  xy: 582, 487
+  size: 417, 485
+  orig: 875, 495
+  offset: 262, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0076
+  rotate: true
+  xy: 1069, 431
+  size: 416, 473
+  orig: 875, 495
+  offset: 276, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0084
+  rotate: false
+  xy: 1121, 849
+  size: 425, 466
+  orig: 875, 495
+  offset: 333, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0010
+  rotate: false
+  xy: 2, 499
+  size: 578, 407
+  orig: 752, 425
+  offset: 169, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0012
+  rotate: false
+  xy: 592, 906
+  size: 527, 409
+  orig: 752, 425
+  offset: 155, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0014
+  rotate: false
+  xy: 2, 908
+  size: 588, 407
+  orig: 752, 425
+  offset: 144, 0
+  index: -1
+
+mascot7.png
+size: 2012,1737
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thu-the-doi-cho/idle_00000
+  rotate: true
+  xy: 2, 13
+  size: 349, 534
+  orig: 500, 700
+  offset: 71, 0
+  index: -1
+thu-the-doi-cho/idle_00001
+  rotate: true
+  xy: 2, 13
+  size: 349, 534
+  orig: 500, 700
+  offset: 71, 0
+  index: -1
+thu-the-doi-cho/idle_00003
+  rotate: true
+  xy: 538, 3
+  size: 349, 534
+  orig: 500, 700
+  offset: 70, 0
+  index: -1
+thu-the-doi-cho/idle_00014
+  rotate: true
+  xy: 1035, 703
+  size: 347, 522
+  orig: 500, 700
+  offset: 71, 0
+  index: -1
+thu-the-doi-cho/idle_00018
+  rotate: true
+  xy: 2, 1059
+  size: 339, 562
+  orig: 500, 700
+  offset: 65, 0
+  index: -1
+thu-the-doi-cho/idle_00022
+  rotate: true
+  xy: 566, 1056
+  size: 340, 524
+  orig: 500, 700
+  offset: 66, 0
+  index: -1
+thu-the-doi-cho/idle_00023
+  rotate: true
+  xy: 1092, 1052
+  size: 344, 524
+  orig: 500, 700
+  offset: 68, 0
+  index: -1
+thu-the-doi-cho/idle_00024
+  rotate: true
+  xy: 679, 354
+  size: 347, 523
+  orig: 500, 700
+  offset: 72, 0
+  index: -1
+thu-the-doi-cho/idle_00030
+  rotate: true
+  xy: 1074, 2
+  size: 349, 634
+  orig: 500, 700
+  offset: 92, 0
+  index: -1
+thu-the-doi-cho/idle_00031
+  rotate: true
+  xy: 1074, 2
+  size: 349, 634
+  orig: 500, 700
+  offset: 92, 0
+  index: -1
+thu-the-doi-cho/idle_00037
+  rotate: true
+  xy: 1204, 353
+  size: 348, 518
+  orig: 500, 700
+  offset: 86, 0
+  index: -1
+thu-the-doi-cho/idle_00038
+  rotate: true
+  xy: 2, 713
+  size: 344, 516
+  orig: 500, 700
+  offset: 82, 0
+  index: -1
+thu-the-doi-cho/idle_00042
+  rotate: true
+  xy: 2, 1400
+  size: 335, 604
+  orig: 500, 700
+  offset: 73, 0
+  index: -1
+thu-the-doi-cho/idle_00043
+  rotate: true
+  xy: 608, 1398
+  size: 337, 550
+  orig: 500, 700
+  offset: 73, 0
+  index: -1
+thu-the-doi-cho/idle_00052
+  rotate: false
+  xy: 1618, 711
+  size: 385, 512
+  orig: 500, 700
+  offset: 92, 0
+  index: -1
+thu-the-doi-cho/idle_00054
+  rotate: true
+  xy: 2, 364
+  size: 344, 675
+  orig: 500, 700
+  offset: 94, 0
+  index: -1
+thu-the-doi-cho/idle_00057
+  rotate: true
+  xy: 1160, 1398
+  size: 337, 508
+  orig: 500, 700
+  offset: 94, 0
+  index: -1
+thu-the-doi-cho/idle_00058
+  rotate: false
+  xy: 1670, 1225
+  size: 340, 510
+  orig: 500, 700
+  offset: 92, 0
+  index: -1
+thu-the-doi-cho/idle_00059
+  rotate: true
+  xy: 520, 710
+  size: 344, 513
+  orig: 500, 700
+  offset: 91, 0
+  index: -1
+
+mascot8.png
+size: 1972,1879
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thu-the-doi-cho/idle_00004
+  rotate: true
+  xy: 1014, 1486
+  size: 391, 546
+  orig: 500, 700
+  offset: 69, 0
+  index: -1
+thu-the-doi-cho/idle_00008
+  rotate: false
+  xy: 2, 1185
+  size: 420, 692
+  orig: 500, 700
+  offset: 0, 0
+  index: -1
+thu-the-doi-cho/idle_00015
+  rotate: true
+  xy: 582, 362
+  size: 411, 520
+  orig: 500, 700
+  offset: 68, 0
+  index: -1
+thu-the-doi-cho/idle_00016
+  rotate: true
+  xy: 582, 362
+  size: 411, 520
+  orig: 500, 700
+  offset: 68, 0
+  index: -1
+thu-the-doi-cho/idle_00017
+  rotate: false
+  xy: 1495, 451
+  size: 355, 618
+  orig: 500, 700
+  offset: 66, 0
+  index: -1
+thu-the-doi-cho/idle_00019
+  rotate: true
+  xy: 414, 2
+  size: 358, 662
+  orig: 500, 700
+  offset: 45, 0
+  index: -1
+thu-the-doi-cho/idle_00020
+  rotate: false
+  xy: 1585, 1270
+  size: 385, 607
+  orig: 500, 700
+  offset: 17, 0
+  index: -1
+thu-the-doi-cho/idle_00021
+  rotate: false
+  xy: 1585, 1270
+  size: 385, 607
+  orig: 500, 700
+  offset: 17, 0
+  index: -1
+thu-the-doi-cho/idle_00028
+  rotate: true
+  xy: 424, 1465
+  size: 412, 588
+  orig: 500, 700
+  offset: 85, 0
+  index: -1
+thu-the-doi-cho/idle_00029
+  rotate: false
+  xy: 582, 775
+  size: 350, 688
+  orig: 500, 700
+  offset: 90, 0
+  index: -1
+thu-the-doi-cho/idle_00032
+  rotate: true
+  xy: 2, 748
+  size: 435, 578
+  orig: 500, 700
+  offset: 7, 0
+  index: -1
+thu-the-doi-cho/idle_00039
+  rotate: false
+  xy: 2, 232
+  size: 410, 514
+  orig: 500, 700
+  offset: 77, 0
+  index: -1
+thu-the-doi-cho/idle_00040
+  rotate: true
+  xy: 1104, 62
+  size: 385, 660
+  orig: 500, 700
+  offset: 74, 0
+  index: -1
+thu-the-doi-cho/idle_00041
+  rotate: true
+  xy: 1104, 62
+  size: 385, 660
+  orig: 500, 700
+  offset: 74, 0
+  index: -1
+thu-the-doi-cho/idle_00044
+  rotate: true
+  xy: 934, 1071
+  size: 392, 649
+  orig: 500, 700
+  offset: 25, 0
+  index: -1
+thu-the-doi-cho/idle_00055
+  rotate: false
+  xy: 1104, 449
+  size: 389, 620
+  orig: 500, 700
+  offset: 44, 0
+  index: -1
+thu-the-doi-cho/idle_00056
+  rotate: false
+  xy: 1104, 449
+  size: 389, 620
+  orig: 500, 700
+  offset: 44, 0
+  index: -1
+
+mascot9.png
+size: 1942,1952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thu-the-doi-cho/idle_00002
+  rotate: false
+  xy: 2, 1064
+  size: 350, 534
+  orig: 500, 700
+  offset: 70, 0
+  index: -1
+thu-the-doi-cho/idle_00005
+  rotate: true
+  xy: 2, 1600
+  size: 350, 646
+  orig: 500, 700
+  offset: 69, 0
+  index: -1
+thu-the-doi-cho/idle_00006
+  rotate: true
+  xy: 2, 1600
+  size: 350, 646
+  orig: 500, 700
+  offset: 69, 0
+  index: -1
+thu-the-doi-cho/idle_00007
+  rotate: true
+  xy: 650, 1600
+  size: 350, 591
+  orig: 500, 700
+  offset: 69, 0
+  index: -1
+thu-the-doi-cho/idle_00009
+  rotate: false
+  xy: 2, 529
+  size: 353, 533
+  orig: 500, 700
+  offset: 69, 0
+  index: -1
+thu-the-doi-cho/idle_00010
+  rotate: false
+  xy: 354, 1067
+  size: 353, 531
+  orig: 500, 700
+  offset: 70, 0
+  index: -1
+thu-the-doi-cho/idle_00011
+  rotate: false
+  xy: 354, 1067
+  size: 353, 531
+  orig: 500, 700
+  offset: 70, 0
+  index: -1
+thu-the-doi-cho/idle_00012
+  rotate: false
+  xy: 357, 537
+  size: 353, 528
+  orig: 500, 700
+  offset: 70, 0
+  index: -1
+thu-the-doi-cho/idle_00013
+  rotate: false
+  xy: 2, 2
+  size: 350, 525
+  orig: 500, 700
+  offset: 71, 0
+  index: -1
+thu-the-doi-cho/idle_00025
+  rotate: false
+  xy: 354, 6
+  size: 350, 521
+  orig: 500, 700
+  offset: 76, 0
+  index: -1
+thu-the-doi-cho/idle_00026
+  rotate: false
+  xy: 354, 6
+  size: 350, 521
+  orig: 500, 700
+  offset: 76, 0
+  index: -1
+thu-the-doi-cho/idle_00027
+  rotate: false
+  xy: 709, 1079
+  size: 351, 519
+  orig: 500, 700
+  offset: 82, 0
+  index: -1
+thu-the-doi-cho/idle_00033
+  rotate: true
+  xy: 1416, 530
+  size: 349, 518
+  orig: 500, 700
+  offset: 93, 0
+  index: -1
+thu-the-doi-cho/idle_00034
+  rotate: false
+  xy: 706, 16
+  size: 350, 519
+  orig: 500, 700
+  offset: 92, 0
+  index: -1
+thu-the-doi-cho/idle_00035
+  rotate: false
+  xy: 712, 558
+  size: 349, 519
+  orig: 500, 700
+  offset: 90, 0
+  index: -1
+thu-the-doi-cho/idle_00036
+  rotate: false
+  xy: 712, 558
+  size: 349, 519
+  orig: 500, 700
+  offset: 90, 0
+  index: -1
+thu-the-doi-cho/idle_00045
+  rotate: false
+  xy: 1063, 46
+  size: 350, 515
+  orig: 500, 700
+  offset: 76, 0
+  index: -1
+thu-the-doi-cho/idle_00046
+  rotate: false
+  xy: 1063, 46
+  size: 350, 515
+  orig: 500, 700
+  offset: 76, 0
+  index: -1
+thu-the-doi-cho/idle_00047
+  rotate: true
+  xy: 1423, 1243
+  size: 355, 517
+  orig: 500, 700
+  offset: 79, 0
+  index: -1
+thu-the-doi-cho/idle_00048
+  rotate: false
+  xy: 1062, 1080
+  size: 359, 518
+  orig: 500, 700
+  offset: 83, 0
+  index: -1
+thu-the-doi-cho/idle_00049
+  rotate: true
+  xy: 1423, 881
+  size: 360, 516
+  orig: 500, 700
+  offset: 87, 0
+  index: -1
+thu-the-doi-cho/idle_00050
+  rotate: true
+  xy: 1415, 168
+  size: 360, 515
+  orig: 500, 700
+  offset: 90, 0
+  index: -1
+thu-the-doi-cho/idle_00051
+  rotate: true
+  xy: 1415, 168
+  size: 360, 515
+  orig: 500, 700
+  offset: 90, 0
+  index: -1
+thu-the-doi-cho/idle_00053
+  rotate: true
+  xy: 1243, 1600
+  size: 350, 576
+  orig: 500, 700
+  offset: 93, 0
+  index: -1
+thu-the-doi-cho/idle_00060
+  rotate: false
+  xy: 1063, 563
+  size: 351, 515
+  orig: 500, 700
+  offset: 89, 0
+  index: -1
+
+mascot10.png
+size: 1812,1928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx-fire/lua-chay_0000
+  rotate: false
+  xy: 2, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0001
+  rotate: false
+  xy: 2, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0002
+  rotate: false
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0003
+  rotate: false
+  xy: 2, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0004
+  rotate: false
+  xy: 364, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0005
+  rotate: false
+  xy: 726, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0006
+  rotate: false
+  xy: 364, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0007
+  rotate: false
+  xy: 726, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0008
+  rotate: false
+  xy: 1088, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0009
+  rotate: false
+  xy: 726, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0010
+  rotate: false
+  xy: 1088, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0011
+  rotate: false
+  xy: 1450, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0012
+  rotate: false
+  xy: 1088, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0013
+  rotate: false
+  xy: 1450, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0014
+  rotate: false
+  xy: 1450, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+
+mascot11.png
+size: 1812,1928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx-fire/lua-chay_0015
+  rotate: false
+  xy: 2, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0016
+  rotate: false
+  xy: 2, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0017
+  rotate: false
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0018
+  rotate: false
+  xy: 2, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0019
+  rotate: false
+  xy: 364, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0020
+  rotate: false
+  xy: 726, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0021
+  rotate: false
+  xy: 364, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0022
+  rotate: false
+  xy: 726, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0023
+  rotate: false
+  xy: 1088, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0024
+  rotate: false
+  xy: 726, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0025
+  rotate: false
+  xy: 1088, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0026
+  rotate: false
+  xy: 1450, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0027
+  rotate: false
+  xy: 1088, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0028
+  rotate: false
+  xy: 1450, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0029
+  rotate: false
+  xy: 1450, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+
+mascot12.png
+size: 1812,1928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx-fire/lua-chay_0030
+  rotate: false
+  xy: 2, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0031
+  rotate: false
+  xy: 2, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0032
+  rotate: false
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0033
+  rotate: false
+  xy: 2, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0034
+  rotate: false
+  xy: 364, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0035
+  rotate: false
+  xy: 726, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0036
+  rotate: false
+  xy: 364, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0037
+  rotate: false
+  xy: 726, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0038
+  rotate: false
+  xy: 1088, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0039
+  rotate: false
+  xy: 726, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0040
+  rotate: false
+  xy: 1088, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0041
+  rotate: false
+  xy: 1450, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0042
+  rotate: false
+  xy: 1088, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0043
+  rotate: false
+  xy: 1450, 644
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0044
+  rotate: false
+  xy: 1450, 2
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+
+mascot13.png
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vfx-fire/lua-chay_0045
+  rotate: false
+  xy: 2, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0046
+  rotate: false
+  xy: 2, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0047
+  rotate: false
+  xy: 2, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0048
+  rotate: true
+  xy: 364, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0049
+  rotate: true
+  xy: 1006, 1648
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0050
+  rotate: false
+  xy: 1648, 1368
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0051
+  rotate: true
+  xy: 364, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0052
+  rotate: true
+  xy: 1006, 1286
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0053
+  rotate: false
+  xy: 1648, 726
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0054
+  rotate: false
+  xy: 364, 84
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0055
+  rotate: true
+  xy: 364, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0056
+  rotate: true
+  xy: 1006, 924
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0057
+  rotate: true
+  xy: 726, 562
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0058
+  rotate: true
+  xy: 1368, 364
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0059
+  rotate: true
+  xy: 726, 200
+  size: 360, 640
+  orig: 360, 640
+  offset: 0, 0
+  index: -1
+vfx-fire/lua-chay_0060
+  rotate: true
+  xy: 1368, 2
+  size: 360, 640
+  orig: 360, 640
   offset: 0, 0
   index: -1
