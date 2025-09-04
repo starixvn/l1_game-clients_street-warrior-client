@@ -1,237 +1,237 @@
 
 mascot.png
-size: 1995,1806
+size: 1951,1914
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0016
-  rotate: false
-  xy: 2, 1355
-  size: 605, 449
-  orig: 795, 449
-  offset: 125, 0
-  index: -1
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0018
-  rotate: false
-  xy: 609, 1355
-  size: 624, 449
-  orig: 795, 449
-  offset: 106, 0
-  index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0020
-  rotate: false
-  xy: 1235, 1355
-  size: 649, 449
+  rotate: true
+  xy: 1529, 207
+  size: 649, 420
   orig: 795, 449
   offset: 81, 0
   index: -1
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0022
-  rotate: false
-  xy: 2, 904
-  size: 660, 449
-  orig: 795, 449
-  offset: 70, 0
-  index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0024
-  rotate: false
-  xy: 664, 904
-  size: 663, 449
+  rotate: true
+  xy: 1118, 1250
+  size: 662, 413
   orig: 795, 449
   offset: 67, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0026
   rotate: false
-  xy: 1329, 904
-  size: 663, 449
+  xy: 453, 858
+  size: 663, 411
   orig: 795, 449
   offset: 67, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0028
   rotate: false
-  xy: 2, 453
-  size: 663, 449
+  xy: 2, 1499
+  size: 663, 413
   orig: 795, 449
   offset: 67, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0030
-  rotate: false
-  xy: 667, 453
-  size: 662, 449
+  rotate: true
+  xy: 1113, 194
+  size: 662, 414
   orig: 795, 449
   offset: 67, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0032
-  rotate: false
-  xy: 1331, 453
-  size: 662, 449
+  rotate: true
+  xy: 1533, 1250
+  size: 662, 409
   orig: 795, 449
   offset: 68, 0
   index: -1
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0034
-  rotate: false
-  xy: 2, 2
-  size: 626, 449
-  orig: 795, 449
-  offset: 104, 0
-  index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0036
   rotate: false
-  xy: 630, 2
-  size: 555, 449
+  xy: 1118, 858
+  size: 555, 390
   orig: 795, 449
   offset: 175, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0038
-  rotate: false
-  xy: 1187, 2
+  rotate: true
+  xy: 2, 948
   size: 549, 449
   orig: 795, 449
   offset: 181, 0
   index: -1
-
-mascot2.png
-size: 1971,1806
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0048
-  rotate: false
-  xy: 1300, 453
-  size: 615, 449
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0040
+  rotate: true
+  xy: 2, 397
+  size: 549, 449
   orig: 795, 449
-  offset: 114, 0
-  index: -1
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0050
-  rotate: false
-  xy: 1325, 1355
-  size: 644, 449
-  orig: 795, 449
-  offset: 85, 0
+  offset: 181, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0052
   rotate: false
-  xy: 666, 1355
-  size: 657, 449
+  xy: 453, 2
+  size: 654, 408
   orig: 795, 449
   offset: 73, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0054
   rotate: false
-  xy: 2, 904
-  size: 658, 449
+  xy: 453, 412
+  size: 658, 444
   orig: 795, 449
   offset: 71, 0
   index: -1
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0056
-  rotate: false
-  xy: 2, 1355
-  size: 662, 449
-  orig: 795, 449
-  offset: 68, 0
-  index: -1
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0058
-  rotate: false
-  xy: 662, 904
-  size: 645, 449
-  orig: 795, 449
-  offset: 85, 0
-  index: -1
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0066
-  rotate: false
-  xy: 2, 453
-  size: 654, 449
-  orig: 795, 449
-  offset: 73, 0
-  index: -1
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0068
-  rotate: false
-  xy: 1274, 2
-  size: 607, 449
-  orig: 795, 449
-  offset: 115, 0
-  index: -1
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0070
-  rotate: false
-  xy: 645, 2
-  size: 627, 449
-  orig: 795, 449
-  offset: 99, 0
-  index: -1
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0072
-  rotate: false
-  xy: 1309, 904
-  size: 639, 449
-  orig: 795, 449
-  offset: 91, 0
-  index: -1
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0074
-  rotate: false
-  xy: 658, 453
-  size: 640, 449
-  orig: 795, 449
-  offset: 89, 0
-  index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0076
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 667, 1271
   size: 641, 449
   orig: 795, 449
   offset: 89, 0
   index: -1
 
-mascot3.png
-size: 1806,1036
+mascot2.png
+size: 1950,2031
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0040
-  rotate: true
-  xy: 1355, 485
-  size: 549, 449
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0016
+  rotate: false
+  xy: 2, 834
+  size: 605, 403
   orig: 795, 449
-  offset: 181, 0
+  offset: 125, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0034
+  rotate: false
+  xy: 2, 1239
+  size: 626, 399
+  orig: 795, 449
+  offset: 104, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0042
   rotate: false
-  xy: 1137, 24
-  size: 557, 449
+  xy: 1140, 1637
+  size: 555, 392
   orig: 795, 449
   offset: 172, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0044
-  rotate: true
-  xy: 453, 471
-  size: 563, 449
+  rotate: false
+  xy: 2, 1641
+  size: 563, 388
   orig: 795, 449
   offset: 165, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0046
-  rotate: true
-  xy: 2, 453
-  size: 581, 449
+  rotate: false
+  xy: 630, 1236
+  size: 579, 399
   orig: 795, 449
   offset: 148, 0
   index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0048
+  rotate: false
+  xy: 1170, 825
+  size: 615, 408
+  orig: 795, 449
+  offset: 114, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0050
+  rotate: false
+  xy: 666, 3
+  size: 644, 410
+  orig: 795, 449
+  offset: 85, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0056
+  rotate: false
+  xy: 2, 4
+  size: 662, 409
+  orig: 795, 449
+  offset: 68, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0058
+  rotate: false
+  xy: 564, 415
+  size: 645, 408
+  orig: 795, 449
+  offset: 85, 0
+  index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0060
   rotate: false
-  xy: 2, 2
-  size: 571, 449
+  xy: 567, 1640
+  size: 571, 389
   orig: 795, 449
   offset: 159, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0062
-  rotate: true
-  xy: 904, 475
-  size: 559, 449
+  rotate: false
+  xy: 609, 829
+  size: 559, 405
   orig: 795, 449
   offset: 171, 0
   index: -1
 bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0064
   rotate: false
-  xy: 575, 20
-  size: 560, 449
+  xy: 2, 424
+  size: 560, 408
   orig: 795, 449
   offset: 169, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0066
+  rotate: false
+  xy: 1211, 1235
+  size: 536, 400
+  orig: 795, 449
+  offset: 144, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0072
+  rotate: false
+  xy: 1312, 2
+  size: 636, 411
+  orig: 795, 449
+  offset: 91, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0074
+  rotate: false
+  xy: 1211, 415
+  size: 640, 408
+  orig: 795, 449
+  offset: 89, 0
+  index: -1
+
+mascot3.png
+size: 1293,837
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0018
+  rotate: false
+  xy: 2, 423
+  size: 624, 412
+  orig: 795, 449
+  offset: 106, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0022
+  rotate: false
+  xy: 631, 2
+  size: 660, 419
+  orig: 795, 449
+  offset: 70, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0068
+  rotate: false
+  xy: 628, 423
+  size: 603, 412
+  orig: 795, 449
+  offset: 115, 0
+  index: -1
+bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0070
+  rotate: false
+  xy: 2, 7
+  size: 627, 414
+  orig: 795, 449
+  offset: 99, 0
   index: -1
 
 mascot4.png
@@ -540,451 +540,457 @@ multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0014
   index: -1
 
 mascot7.png
-size: 2012,1737
+size: 2048,1871
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 thu-the-doi-cho/idle_00000
   rotate: true
-  xy: 2, 13
-  size: 349, 534
+  xy: 1451, 1168
+  size: 349, 533
   orig: 500, 700
   offset: 71, 0
   index: -1
 thu-the-doi-cho/idle_00001
-  rotate: true
-  xy: 2, 13
+  rotate: false
+  xy: 748, 1335
   size: 349, 534
   orig: 500, 700
   offset: 71, 0
   index: -1
-thu-the-doi-cho/idle_00003
-  rotate: true
-  xy: 538, 3
-  size: 349, 534
+thu-the-doi-cho/idle_00002
+  rotate: false
+  xy: 396, 1335
+  size: 350, 534
   orig: 500, 700
   offset: 70, 0
   index: -1
-thu-the-doi-cho/idle_00014
+thu-the-doi-cho/idle_00003
   rotate: true
-  xy: 1035, 703
-  size: 347, 522
+  xy: 1163, 817
+  size: 349, 533
   orig: 500, 700
-  offset: 71, 0
+  offset: 70, 0
   index: -1
-thu-the-doi-cho/idle_00018
-  rotate: true
-  xy: 2, 1059
-  size: 339, 562
-  orig: 500, 700
-  offset: 65, 0
-  index: -1
-thu-the-doi-cho/idle_00022
-  rotate: true
-  xy: 566, 1056
-  size: 340, 524
-  orig: 500, 700
-  offset: 66, 0
-  index: -1
-thu-the-doi-cho/idle_00023
-  rotate: true
-  xy: 1092, 1052
-  size: 344, 524
-  orig: 500, 700
-  offset: 68, 0
-  index: -1
-thu-the-doi-cho/idle_00024
-  rotate: true
-  xy: 679, 354
-  size: 347, 523
-  orig: 500, 700
-  offset: 72, 0
-  index: -1
-thu-the-doi-cho/idle_00030
-  rotate: true
-  xy: 1074, 2
-  size: 349, 634
-  orig: 500, 700
-  offset: 92, 0
-  index: -1
-thu-the-doi-cho/idle_00031
-  rotate: true
-  xy: 1074, 2
-  size: 349, 634
-  orig: 500, 700
-  offset: 92, 0
-  index: -1
-thu-the-doi-cho/idle_00037
-  rotate: true
-  xy: 1204, 353
-  size: 348, 518
-  orig: 500, 700
-  offset: 86, 0
-  index: -1
-thu-the-doi-cho/idle_00038
-  rotate: true
-  xy: 2, 713
-  size: 344, 516
-  orig: 500, 700
-  offset: 82, 0
-  index: -1
-thu-the-doi-cho/idle_00042
-  rotate: true
-  xy: 2, 1400
-  size: 335, 604
-  orig: 500, 700
-  offset: 73, 0
-  index: -1
-thu-the-doi-cho/idle_00043
-  rotate: true
-  xy: 608, 1398
-  size: 337, 550
-  orig: 500, 700
-  offset: 73, 0
-  index: -1
-thu-the-doi-cho/idle_00052
-  rotate: false
-  xy: 1618, 711
-  size: 385, 512
-  orig: 500, 700
-  offset: 92, 0
-  index: -1
-thu-the-doi-cho/idle_00054
-  rotate: true
-  xy: 2, 364
-  size: 344, 675
-  orig: 500, 700
-  offset: 94, 0
-  index: -1
-thu-the-doi-cho/idle_00057
-  rotate: true
-  xy: 1160, 1398
-  size: 337, 508
-  orig: 500, 700
-  offset: 94, 0
-  index: -1
-thu-the-doi-cho/idle_00058
-  rotate: false
-  xy: 1670, 1225
-  size: 340, 510
-  orig: 500, 700
-  offset: 92, 0
-  index: -1
-thu-the-doi-cho/idle_00059
-  rotate: true
-  xy: 520, 710
-  size: 344, 513
-  orig: 500, 700
-  offset: 91, 0
-  index: -1
-
-mascot8.png
-size: 1972,1879
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
 thu-the-doi-cho/idle_00004
+  rotate: false
+  xy: 744, 147
+  size: 350, 533
+  orig: 500, 700
+  offset: 69, 0
+  index: -1
+thu-the-doi-cho/idle_00005
+  rotate: false
+  xy: 811, 800
+  size: 350, 533
+  orig: 500, 700
+  offset: 69, 0
+  index: -1
+thu-the-doi-cho/idle_00006
+  rotate: false
+  xy: 1099, 1336
+  size: 350, 533
+  orig: 500, 700
+  offset: 69, 0
+  index: -1
+thu-the-doi-cho/idle_00007
   rotate: true
-  xy: 1014, 1486
-  size: 391, 546
+  xy: 1451, 1519
+  size: 350, 533
   orig: 500, 700
   offset: 69, 0
   index: -1
 thu-the-doi-cho/idle_00008
   rotate: false
-  xy: 2, 1185
-  size: 420, 692
+  xy: 389, 682
+  size: 420, 536
   orig: 500, 700
   offset: 0, 0
   index: -1
-thu-the-doi-cho/idle_00015
-  rotate: true
-  xy: 582, 362
-  size: 411, 520
-  orig: 500, 700
-  offset: 68, 0
-  index: -1
-thu-the-doi-cho/idle_00016
-  rotate: true
-  xy: 582, 362
-  size: 411, 520
-  orig: 500, 700
-  offset: 68, 0
-  index: -1
-thu-the-doi-cho/idle_00017
+thu-the-doi-cho/idle_00009
   rotate: false
-  xy: 1495, 451
-  size: 355, 618
+  xy: 389, 147
+  size: 353, 533
   orig: 500, 700
-  offset: 66, 0
+  offset: 69, 0
   index: -1
-thu-the-doi-cho/idle_00019
+thu-the-doi-cho/idle_00010
   rotate: true
-  xy: 414, 2
-  size: 358, 662
+  xy: 1096, 107
+  size: 353, 530
   orig: 500, 700
-  offset: 45, 0
+  offset: 70, 0
+  index: -1
+thu-the-doi-cho/idle_00011
+  rotate: true
+  xy: 1163, 462
+  size: 353, 531
+  orig: 500, 700
+  offset: 70, 0
+  index: -1
+thu-the-doi-cho/idle_00013
+  rotate: false
+  xy: 1696, 121
+  size: 350, 525
+  orig: 500, 700
+  offset: 71, 0
   index: -1
 thu-the-doi-cho/idle_00020
   rotate: false
-  xy: 1585, 1270
+  xy: 2, 611
   size: 385, 607
   orig: 500, 700
   offset: 17, 0
   index: -1
 thu-the-doi-cho/idle_00021
   rotate: false
-  xy: 1585, 1270
+  xy: 2, 2
   size: 385, 607
   orig: 500, 700
   offset: 17, 0
   index: -1
-thu-the-doi-cho/idle_00028
-  rotate: true
-  xy: 424, 1465
-  size: 412, 588
-  orig: 500, 700
-  offset: 85, 0
-  index: -1
-thu-the-doi-cho/idle_00029
+thu-the-doi-cho/idle_00037
   rotate: false
-  xy: 582, 775
-  size: 350, 688
+  xy: 1698, 648
+  size: 348, 518
   orig: 500, 700
-  offset: 90, 0
-  index: -1
-thu-the-doi-cho/idle_00032
-  rotate: true
-  xy: 2, 748
-  size: 435, 578
-  orig: 500, 700
-  offset: 7, 0
-  index: -1
-thu-the-doi-cho/idle_00039
-  rotate: false
-  xy: 2, 232
-  size: 410, 514
-  orig: 500, 700
-  offset: 77, 0
-  index: -1
-thu-the-doi-cho/idle_00040
-  rotate: true
-  xy: 1104, 62
-  size: 385, 660
-  orig: 500, 700
-  offset: 74, 0
-  index: -1
-thu-the-doi-cho/idle_00041
-  rotate: true
-  xy: 1104, 62
-  size: 385, 660
-  orig: 500, 700
-  offset: 74, 0
+  offset: 86, 0
   index: -1
 thu-the-doi-cho/idle_00044
-  rotate: true
-  xy: 934, 1071
+  rotate: false
+  xy: 2, 1220
   size: 392, 649
   orig: 500, 700
   offset: 25, 0
   index: -1
-thu-the-doi-cho/idle_00055
-  rotate: false
-  xy: 1104, 449
-  size: 389, 620
-  orig: 500, 700
-  offset: 44, 0
-  index: -1
-thu-the-doi-cho/idle_00056
-  rotate: false
-  xy: 1104, 449
-  size: 389, 620
-  orig: 500, 700
-  offset: 44, 0
-  index: -1
 
-mascot9.png
-size: 1942,1952
+mascot8.png
+size: 1880,1917
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-thu-the-doi-cho/idle_00002
-  rotate: false
-  xy: 2, 1064
-  size: 350, 534
-  orig: 500, 700
-  offset: 70, 0
-  index: -1
-thu-the-doi-cho/idle_00005
-  rotate: true
-  xy: 2, 1600
-  size: 350, 646
-  orig: 500, 700
-  offset: 69, 0
-  index: -1
-thu-the-doi-cho/idle_00006
-  rotate: true
-  xy: 2, 1600
-  size: 350, 646
-  orig: 500, 700
-  offset: 69, 0
-  index: -1
-thu-the-doi-cho/idle_00007
-  rotate: true
-  xy: 650, 1600
-  size: 350, 591
-  orig: 500, 700
-  offset: 69, 0
-  index: -1
-thu-the-doi-cho/idle_00009
-  rotate: false
-  xy: 2, 529
-  size: 353, 533
-  orig: 500, 700
-  offset: 69, 0
-  index: -1
-thu-the-doi-cho/idle_00010
-  rotate: false
-  xy: 354, 1067
-  size: 353, 531
-  orig: 500, 700
-  offset: 70, 0
-  index: -1
-thu-the-doi-cho/idle_00011
-  rotate: false
-  xy: 354, 1067
-  size: 353, 531
-  orig: 500, 700
-  offset: 70, 0
-  index: -1
 thu-the-doi-cho/idle_00012
-  rotate: false
-  xy: 357, 537
+  rotate: true
+  xy: 827, 1562
   size: 353, 528
   orig: 500, 700
   offset: 70, 0
   index: -1
-thu-the-doi-cho/idle_00013
-  rotate: false
-  xy: 2, 2
-  size: 350, 525
+thu-the-doi-cho/idle_00014
+  rotate: true
+  xy: 739, 163
+  size: 347, 522
   orig: 500, 700
   offset: 71, 0
   index: -1
-thu-the-doi-cho/idle_00025
+thu-the-doi-cho/idle_00015
   rotate: false
-  xy: 354, 6
+  xy: 2, 1395
+  size: 411, 520
+  orig: 500, 700
+  offset: 68, 0
+  index: -1
+thu-the-doi-cho/idle_00016
+  rotate: false
+  xy: 2, 873
+  size: 411, 520
+  orig: 500, 700
+  offset: 68, 0
+  index: -1
+thu-the-doi-cho/idle_00019
+  rotate: true
+  xy: 1357, 1225
+  size: 338, 521
+  orig: 500, 700
+  offset: 65, 0
+  index: -1
+thu-the-doi-cho/idle_00022
+  rotate: true
+  xy: 827, 1220
+  size: 340, 524
+  orig: 500, 700
+  offset: 66, 0
+  index: -1
+thu-the-doi-cho/idle_00023
+  rotate: true
+  xy: 776, 874
+  size: 344, 524
+  orig: 500, 700
+  offset: 68, 0
+  index: -1
+thu-the-doi-cho/idle_00024
+  rotate: true
+  xy: 1353, 876
+  size: 347, 522
+  orig: 500, 700
+  offset: 72, 0
+  index: -1
+thu-the-doi-cho/idle_00025
+  rotate: true
+  xy: 1357, 1565
   size: 350, 521
   orig: 500, 700
   offset: 76, 0
   index: -1
 thu-the-doi-cho/idle_00026
-  rotate: false
-  xy: 354, 6
+  rotate: true
+  xy: 1302, 524
   size: 350, 521
   orig: 500, 700
   offset: 76, 0
   index: -1
-thu-the-doi-cho/idle_00027
+thu-the-doi-cho/idle_00039
   rotate: false
-  xy: 709, 1079
-  size: 351, 519
+  xy: 415, 1401
+  size: 410, 514
   orig: 500, 700
-  offset: 82, 0
-  index: -1
-thu-the-doi-cho/idle_00033
-  rotate: true
-  xy: 1416, 530
-  size: 349, 518
-  orig: 500, 700
-  offset: 93, 0
-  index: -1
-thu-the-doi-cho/idle_00034
-  rotate: false
-  xy: 706, 16
-  size: 350, 519
-  orig: 500, 700
-  offset: 92, 0
-  index: -1
-thu-the-doi-cho/idle_00035
-  rotate: false
-  xy: 712, 558
-  size: 349, 519
-  orig: 500, 700
-  offset: 90, 0
-  index: -1
-thu-the-doi-cho/idle_00036
-  rotate: false
-  xy: 712, 558
-  size: 349, 519
-  orig: 500, 700
-  offset: 90, 0
-  index: -1
-thu-the-doi-cho/idle_00045
-  rotate: false
-  xy: 1063, 46
-  size: 350, 515
-  orig: 500, 700
-  offset: 76, 0
-  index: -1
-thu-the-doi-cho/idle_00046
-  rotate: false
-  xy: 1063, 46
-  size: 350, 515
-  orig: 500, 700
-  offset: 76, 0
-  index: -1
-thu-the-doi-cho/idle_00047
-  rotate: true
-  xy: 1423, 1243
-  size: 355, 517
-  orig: 500, 700
-  offset: 79, 0
+  offset: 77, 0
   index: -1
 thu-the-doi-cho/idle_00048
   rotate: false
-  xy: 1062, 1080
-  size: 359, 518
+  xy: 415, 882
+  size: 359, 517
   orig: 500, 700
   offset: 83, 0
   index: -1
 thu-the-doi-cho/idle_00049
   rotate: true
-  xy: 1423, 881
+  xy: 2, 2
   size: 360, 516
   orig: 500, 700
   offset: 87, 0
   index: -1
 thu-the-doi-cho/idle_00050
   rotate: true
-  xy: 1415, 168
+  xy: 739, 512
   size: 360, 515
   orig: 500, 700
   offset: 90, 0
   index: -1
 thu-the-doi-cho/idle_00051
   rotate: true
-  xy: 1415, 168
+  xy: 1263, 162
   size: 360, 515
   orig: 500, 700
   offset: 90, 0
   index: -1
-thu-the-doi-cho/idle_00053
-  rotate: true
-  xy: 1243, 1600
-  size: 350, 576
+thu-the-doi-cho/idle_00054
+  rotate: false
+  xy: 393, 365
+  size: 344, 506
+  orig: 500, 700
+  offset: 94, 0
+  index: -1
+thu-the-doi-cho/idle_00055
+  rotate: false
+  xy: 2, 364
+  size: 389, 507
+  orig: 500, 700
+  offset: 44, 0
+  index: -1
+
+mascot9.png
+size: 1760,1924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thu-the-doi-cho/idle_00017
+  rotate: false
+  xy: 2, 360
+  size: 343, 519
+  orig: 500, 700
+  offset: 66, 0
+  index: -1
+thu-the-doi-cho/idle_00018
+  rotate: false
+  xy: 2, 1402
+  size: 339, 520
+  orig: 500, 700
+  offset: 65, 0
+  index: -1
+thu-the-doi-cho/idle_00027
+  rotate: false
+  xy: 2, 881
+  size: 351, 519
+  orig: 500, 700
+  offset: 82, 0
+  index: -1
+thu-the-doi-cho/idle_00028
+  rotate: false
+  xy: 699, 364
+  size: 352, 517
+  orig: 500, 700
+  offset: 85, 0
+  index: -1
+thu-the-doi-cho/idle_00029
+  rotate: false
+  xy: 706, 885
+  size: 350, 517
+  orig: 500, 700
+  offset: 90, 0
+  index: -1
+thu-the-doi-cho/idle_00030
+  rotate: false
+  xy: 1045, 1405
+  size: 349, 517
+  orig: 500, 700
+  offset: 92, 0
+  index: -1
+thu-the-doi-cho/idle_00031
+  rotate: false
+  xy: 1053, 366
+  size: 349, 517
+  orig: 500, 700
+  offset: 92, 0
+  index: -1
+thu-the-doi-cho/idle_00032
+  rotate: false
+  xy: 1058, 886
+  size: 348, 517
+  orig: 500, 700
+  offset: 94, 0
+  index: -1
+thu-the-doi-cho/idle_00033
+  rotate: false
+  xy: 355, 883
+  size: 349, 518
   orig: 500, 700
   offset: 93, 0
   index: -1
-thu-the-doi-cho/idle_00060
+thu-the-doi-cho/idle_00034
   rotate: false
-  xy: 1063, 563
-  size: 351, 515
+  xy: 347, 361
+  size: 350, 518
+  orig: 500, 700
+  offset: 92, 0
+  index: -1
+thu-the-doi-cho/idle_00035
+  rotate: false
+  xy: 343, 1403
+  size: 349, 519
+  orig: 500, 700
+  offset: 90, 0
+  index: -1
+thu-the-doi-cho/idle_00036
+  rotate: false
+  xy: 694, 1404
+  size: 349, 518
+  orig: 500, 700
+  offset: 90, 0
+  index: -1
+thu-the-doi-cho/idle_00038
+  rotate: false
+  xy: 1396, 1406
+  size: 344, 516
+  orig: 500, 700
+  offset: 82, 0
+  index: -1
+thu-the-doi-cho/idle_00045
+  rotate: false
+  xy: 1404, 369
+  size: 350, 515
+  orig: 500, 700
+  offset: 76, 0
+  index: -1
+thu-the-doi-cho/idle_00046
+  rotate: false
+  xy: 1408, 889
+  size: 350, 515
+  orig: 500, 700
+  offset: 76, 0
+  index: -1
+thu-the-doi-cho/idle_00047
+  rotate: true
+  xy: 516, 4
+  size: 355, 516
+  orig: 500, 700
+  offset: 79, 0
+  index: -1
+thu-the-doi-cho/idle_00052
+  rotate: true
+  xy: 2, 2
+  size: 356, 512
+  orig: 500, 700
+  offset: 92, 0
+  index: -1
+thu-the-doi-cho/idle_00060
+  rotate: true
+  xy: 1034, 11
+  size: 351, 514
   orig: 500, 700
   offset: 89, 0
   index: -1
 
 mascot10.png
+size: 1542,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thu-the-doi-cho/idle_00040
+  rotate: true
+  xy: 514, 695
+  size: 336, 512
+  orig: 500, 700
+  offset: 74, 0
+  index: -1
+thu-the-doi-cho/idle_00041
+  rotate: true
+  xy: 1028, 695
+  size: 336, 512
+  orig: 500, 700
+  offset: 74, 0
+  index: -1
+thu-the-doi-cho/idle_00042
+  rotate: true
+  xy: 2, 696
+  size: 335, 510
+  orig: 500, 700
+  offset: 73, 0
+  index: -1
+thu-the-doi-cho/idle_00043
+  rotate: true
+  xy: 512, 356
+  size: 337, 511
+  orig: 500, 700
+  offset: 73, 0
+  index: -1
+thu-the-doi-cho/idle_00053
+  rotate: true
+  xy: 1027, 2
+  size: 350, 508
+  orig: 500, 700
+  offset: 93, 0
+  index: -1
+thu-the-doi-cho/idle_00056
+  rotate: true
+  xy: 1025, 354
+  size: 339, 506
+  orig: 500, 700
+  offset: 94, 0
+  index: -1
+thu-the-doi-cho/idle_00057
+  rotate: true
+  xy: 2, 357
+  size: 337, 508
+  orig: 500, 700
+  offset: 94, 0
+  index: -1
+thu-the-doi-cho/idle_00058
+  rotate: true
+  xy: 2, 14
+  size: 340, 510
+  orig: 500, 700
+  offset: 92, 0
+  index: -1
+thu-the-doi-cho/idle_00059
+  rotate: true
+  xy: 514, 8
+  size: 344, 511
+  orig: 500, 700
+  offset: 91, 0
+  index: -1
+
+mascot11.png
 size: 1812,1928
 format: RGBA8888
 filter: Linear,Linear
@@ -1095,7 +1101,7 @@ vfx-fire/lua-chay_0014
   offset: 0, 0
   index: -1
 
-mascot11.png
+mascot12.png
 size: 1812,1928
 format: RGBA8888
 filter: Linear,Linear
@@ -1206,7 +1212,7 @@ vfx-fire/lua-chay_0029
   offset: 0, 0
   index: -1
 
-mascot12.png
+mascot13.png
 size: 1812,1928
 format: RGBA8888
 filter: Linear,Linear
@@ -1317,7 +1323,7 @@ vfx-fire/lua-chay_0044
   offset: 0, 0
   index: -1
 
-mascot13.png
+mascot14.png
 size: 2010,2010
 format: RGBA8888
 filter: Linear,Linear

@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "qheKu2DQDE3WnZPL1JRMswcdwN4", "spine": "3.8.99" },
+"skeleton": { "hash": "3DUhIdtVdF7BC9+Yes2YkztDbhU", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "back-glow1", "parent": "root" },
@@ -17,9 +17,9 @@
 		"scaleY": 2.2
 	},
 	{ "name": "text free spin", "parent": "root", "x": 0.78, "y": -142.04 },
-	{ "name": "number", "parent": "root" },
-	{ "name": "text-congratulation", "parent": "root" },
-	{ "name": "text-you-win", "parent": "root" }
+	{ "name": "number", "parent": "root", "y": -41.91 },
+	{ "name": "text-congratulation", "parent": "root", "y": 91.58 },
+	{ "name": "text-you-won", "parent": "root", "y": 40 }
 ],
 "slots": [
 	{ "name": "polygon-bg2", "bone": "polygon-bg2" },
@@ -31,7 +31,7 @@
 	{ "name": "text free spin", "bone": "text free spin" },
 	{ "name": "text-congratulation", "bone": "text-congratulation" },
 	{ "name": "number", "bone": "number" },
-	{ "name": "text-you-win", "bone": "text-you-win" },
+	{ "name": "text-you-won", "bone": "text-you-won" },
 	{ "name": "freespins-mask", "bone": "root" },
 	{ "name": "highlight", "bone": "highlight" }
 ],
