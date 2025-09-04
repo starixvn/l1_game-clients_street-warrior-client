@@ -9,8 +9,8 @@
   "subMetas": {},
   "userData": {
     "_fntConfig": {
-      "commonHeight": 80,
-      "fontSize": 80,
+      "commonHeight": 68,
+      "fontSize": 68,
       "atlasName": "font-number-export.png",
       "fontDefDictionary": {
         "9": {
@@ -181,7 +181,7 @@
       },
       "kerningDict": {}
     },
-    "fontSize": 80,
+    "fontSize": 68,
     "textureUuid": "8bab0c6a-24b6-4dc1-a20d-d561dae88723"
   }
 }
