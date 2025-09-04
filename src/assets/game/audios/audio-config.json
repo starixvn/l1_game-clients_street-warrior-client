@@ -64,9 +64,9 @@
         "path": "wincount-increment",
         "isLazyLoad": true
     },
-    "increment-stop": {
+    "wincount-stop": {
         "bundle": "resources",
-        "path": "increment-stop",
+        "path": "wincount-stop",
         "isLazyLoad": true
     },
     "bgm-main": {
