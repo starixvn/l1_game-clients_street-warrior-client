@@ -4,11 +4,6 @@
         "path": "big-win",
         "isLazyLoad": true
     },
-    "big-win-increment-ended": {
-        "bundle": "resources",
-        "path": "big-win-increment-ended",
-        "isLazyLoad": true
-    },
     "click": {
         "bundle": "resources",
         "path": "click",
@@ -80,7 +75,7 @@
         "bundle": "resources",
         "isLazyLoad": true
     },
-    "peek-effect-reel": {
+    "stinger-freespin-peek": {
         "bundle": "resources",
         "isLazyLoad": true
     },
