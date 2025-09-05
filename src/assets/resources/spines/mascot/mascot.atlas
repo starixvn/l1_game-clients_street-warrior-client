@@ -1,5 +1,5 @@
 
-mascot.png
+mascot.webp
 size: 1951,1914
 format: RGBA8888
 filter: Linear,Linear
@@ -89,7 +89,7 @@ bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0076
   offset: 89, 0
   index: -1
 
-mascot2.png
+mascot2.webp
 size: 1950,2031
 format: RGBA8888
 filter: Linear,Linear
@@ -200,7 +200,7 @@ bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0074
   offset: 89, 0
   index: -1
 
-mascot3.png
+mascot3.webp
 size: 1293,837
 format: RGBA8888
 filter: Linear,Linear
@@ -234,7 +234,7 @@ bigwin-event-cu-dam-vang-lien-tuc/cu-dam-vang-lien-tuc_0070
   offset: 99, 0
   index: -1
 
-mascot4.png
+mascot4.webp
 size: 1874,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -338,208 +338,208 @@ multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0046
   offset: 126, 0
   index: -1
 
-mascot5.png
-size: 1944,1956
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0056
-  rotate: true
-  xy: 1412, 1592
-  size: 362, 462
-  orig: 875, 495
-  offset: 243, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0058
-  rotate: true
-  xy: 1472, 1209
-  size: 381, 470
-  orig: 875, 495
-  offset: 237, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0060
-  rotate: true
-  xy: 959, 827
-  size: 389, 492
-  orig: 875, 495
-  offset: 238, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0062
-  rotate: true
-  xy: 494, 1233
-  size: 370, 481
-  orig: 875, 495
-  offset: 245, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0072
-  rotate: true
-  xy: 2, 30
-  size: 412, 485
-  orig: 875, 495
-  offset: 260, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0078
-  rotate: true
-  xy: 2, 1644
-  size: 310, 462
-  orig: 875, 495
-  offset: 318, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0080
-  rotate: true
-  xy: 2, 1263
-  size: 364, 490
-  orig: 875, 495
-  offset: 311, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0082
-  rotate: true
-  xy: 2, 876
-  size: 385, 461
-  orig: 875, 495
-  offset: 332, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0086
-  rotate: true
-  xy: 466, 1629
-  size: 325, 465
-  orig: 875, 495
-  offset: 313, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0088
-  rotate: true
-  xy: 933, 1605
-  size: 349, 477
-  orig: 875, 495
-  offset: 299, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0090
-  rotate: true
-  xy: 977, 1218
-  size: 372, 493
-  orig: 875, 495
-  offset: 280, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0092
-  rotate: true
-  xy: 465, 848
-  size: 383, 492
-  orig: 875, 495
-  offset: 262, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0094
-  rotate: true
-  xy: 2, 444
-  size: 402, 495
-  orig: 875, 495
-  offset: 250, 0
-  index: -1
-multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0096
-  rotate: true
-  xy: 1453, 813
-  size: 394, 482
-  orig: 875, 495
-  offset: 237, 0
-  index: -1
-multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0008
-  rotate: false
-  xy: 1096, 2
-  size: 567, 405
-  orig: 752, 425
-  offset: 185, 0
-  index: -1
-multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0016
-  rotate: false
-  xy: 499, 423
-  size: 616, 402
-  orig: 752, 425
-  offset: 136, 0
-  index: -1
-multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0034
-  rotate: false
-  xy: 489, 18
-  size: 605, 403
-  orig: 752, 425
-  offset: 147, 0
-  index: -1
-multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0036
-  rotate: false
-  xy: 1117, 409
-  size: 615, 402
-  orig: 752, 425
-  offset: 137, 0
-  index: -1
-
-mascot6.png
-size: 1548,1317
+mascot5.webp
+size: 2046,1989
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0066
   rotate: false
-  xy: 447, 13
+  xy: 620, 1515
   size: 451, 472
   orig: 875, 495
   offset: 190, 0
   index: -1
 multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0068
-  rotate: true
-  xy: 900, 14
+  rotate: false
+  xy: 2, 147
   size: 415, 464
   orig: 875, 495
   offset: 226, 0
   index: -1
 multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0070
   rotate: false
-  xy: 2, 2
+  xy: 2, 1088
   size: 443, 495
   orig: 875, 495
   offset: 264, 0
   index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0072
+  rotate: false
+  xy: 1465, 560
+  size: 412, 485
+  orig: 875, 495
+  offset: 260, 0
+  index: -1
 multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0074
   rotate: true
-  xy: 582, 487
+  xy: 1073, 1570
   size: 417, 485
   orig: 875, 495
   offset: 262, 0
   index: -1
 multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0076
-  rotate: true
-  xy: 1069, 431
+  rotate: false
+  xy: 2, 613
   size: 416, 473
   orig: 875, 495
   offset: 276, 0
   index: -1
 multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0084
   rotate: false
-  xy: 1121, 849
+  xy: 1064, 1047
   size: 425, 466
   orig: 875, 495
   offset: 333, 0
   index: -1
-multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0010
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0090
+  rotate: true
+  xy: 1491, 1196
+  size: 372, 493
+  orig: 875, 495
+  offset: 280, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0094
+  rotate: true
+  xy: 1560, 1616
+  size: 371, 484
+  orig: 875, 495
+  offset: 267, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0008
   rotate: false
-  xy: 2, 499
+  xy: 1267, 153
+  size: 567, 405
+  orig: 752, 425
+  offset: 185, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0010
+  rotate: true
+  xy: 419, 2
   size: 578, 407
   orig: 752, 425
   offset: 169, 0
   index: -1
 multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0012
-  rotate: false
-  xy: 592, 906
+  rotate: true
+  xy: 447, 582
   size: 527, 409
   orig: 752, 425
   offset: 155, 0
   index: -1
 multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0014
-  rotate: false
-  xy: 2, 908
+  rotate: true
+  xy: 858, 52
   size: 588, 407
   orig: 752, 425
   offset: 144, 0
   index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0016
+  rotate: false
+  xy: 2, 1585
+  size: 616, 402
+  orig: 752, 425
+  offset: 136, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0034
+  rotate: false
+  xy: 858, 642
+  size: 605, 403
+  orig: 752, 425
+  offset: 147, 0
+  index: -1
+multiplier-gong-dien-sam-set/hai-ban-tay-vang-vot_0036
+  rotate: false
+  xy: 447, 1111
+  size: 615, 402
+  orig: 752, 425
+  offset: 137, 0
+  index: -1
 
-mascot7.png
+mascot6.webp
+size: 1975,1001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0056
+  rotate: false
+  xy: 1131, 537
+  size: 362, 462
+  orig: 875, 495
+  offset: 243, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0058
+  rotate: false
+  xy: 387, 35
+  size: 381, 470
+  orig: 875, 495
+  offset: 237, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0060
+  rotate: false
+  xy: 2, 507
+  size: 389, 492
+  orig: 875, 495
+  offset: 238, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0062
+  rotate: false
+  xy: 759, 518
+  size: 370, 481
+  orig: 875, 495
+  offset: 245, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0078
+  rotate: true
+  xy: 1508, 2
+  size: 310, 462
+  orig: 875, 495
+  offset: 318, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0080
+  rotate: false
+  xy: 393, 509
+  size: 364, 490
+  orig: 875, 495
+  offset: 311, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0082
+  rotate: false
+  xy: 770, 55
+  size: 385, 461
+  orig: 875, 495
+  offset: 332, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0086
+  rotate: true
+  xy: 1508, 314
+  size: 325, 465
+  orig: 875, 495
+  offset: 313, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0088
+  rotate: false
+  xy: 1157, 58
+  size: 349, 477
+  orig: 875, 495
+  offset: 299, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0092
+  rotate: false
+  xy: 2, 13
+  size: 383, 492
+  orig: 875, 495
+  offset: 262, 0
+  index: -1
+multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0096
+  rotate: true
+  xy: 1495, 641
+  size: 358, 465
+  orig: 875, 495
+  offset: 255, 0
+  index: -1
+
+mascot7.webp
 size: 2048,1871
 format: RGBA8888
 filter: Linear,Linear
@@ -664,7 +664,7 @@ thu-the-doi-cho/idle_00044
   offset: 25, 0
   index: -1
 
-mascot8.png
+mascot8.webp
 size: 1880,1917
 format: RGBA8888
 filter: Linear,Linear
@@ -789,7 +789,7 @@ thu-the-doi-cho/idle_00055
   offset: 44, 0
   index: -1
 
-mascot9.png
+mascot9.webp
 size: 1760,1924
 format: RGBA8888
 filter: Linear,Linear
@@ -921,7 +921,7 @@ thu-the-doi-cho/idle_00060
   offset: 89, 0
   index: -1
 
-mascot10.png
+mascot10.webp
 size: 1542,1033
 format: RGBA8888
 filter: Linear,Linear
@@ -990,7 +990,7 @@ thu-the-doi-cho/idle_00059
   offset: 91, 0
   index: -1
 
-mascot11.png
+mascot11.webp
 size: 1812,1928
 format: RGBA8888
 filter: Linear,Linear
@@ -1101,7 +1101,7 @@ vfx-fire/lua-chay_0014
   offset: 0, 0
   index: -1
 
-mascot12.png
+mascot12.webp
 size: 1812,1928
 format: RGBA8888
 filter: Linear,Linear
@@ -1212,7 +1212,7 @@ vfx-fire/lua-chay_0029
   offset: 0, 0
   index: -1
 
-mascot13.png
+mascot13.webp
 size: 1812,1928
 format: RGBA8888
 filter: Linear,Linear
@@ -1323,7 +1323,7 @@ vfx-fire/lua-chay_0044
   offset: 0, 0
   index: -1
 
-mascot14.png
+mascot14.webp
 size: 2010,2010
 format: RGBA8888
 filter: Linear,Linear

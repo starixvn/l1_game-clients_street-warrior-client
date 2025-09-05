@@ -1,10 +1,10 @@
 {
-"skeleton": { "hash": "AsjH4JUpyJ2Xupwpz20aYAv89oI", "spine": "3.8.99", "images": "./images/", "audio": "" },
+"skeleton": { "hash": "L2jmywlx4Z6TGLOU6GKeFweWdHg", "spine": "3.8.99", "images": "./images/", "audio": "" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "chuong-dien-sam-set-event", "parent": "root", "x": 101.79, "y": 305.36 },
 	{ "name": "gong-dien-hai-ban-tay-multiplier-show", "parent": "root", "x": -35.64, "y": 267.44 },
-	{ "name": "dam-trai-dam-phai-vang-vot-event-freespin", "parent": "root", "x": -42.27, "y": 278.9 },
+	{ "name": "dam-trai-dam-phai-vang-vot-event-freespin", "parent": "root", "x": -42.72, "y": 278.9 },
 	{ "name": "dung-yen-thu-the", "parent": "root", "y": 303.87, "scaleX": 0.92, "scaleY": 0.92 },
 	{ "name": "chuong-dien-sam-set-event-highlight", "parent": "root", "x": 101.79, "y": 305.36 },
 	{ "name": "dam-trai-dam-phai-vang-vot-event-freespin-highlighted", "parent": "root", "x": -42.27, "y": 278.9 },
@@ -832,7 +832,7 @@
 	}
 ],
 "animations": {
-	"event": {
+	"big-win": {
 		"slots": {
 			"chuong-dien-sam-set-event": {
 				"color": [
@@ -919,71 +919,92 @@
 			}
 		}
 	},
-	"event-freespin": {
+	"freespin": {
 		"slots": {
 			"dam-trai-dam-phai-vang-vot-event-freespin": {
 				"color": [
 					{ "color": "ffffff00" },
-					{ "time": 0.2667, "color": "ffffffff", "curve": "stepped" },
-					{ "time": 1.5333, "color": "ffffffff" },
-					{ "time": 1.7, "color": "ffffff00" }
+					{ "time": 0.2, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.8667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
 				],
 				"attachment": [
 					{ "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0056" },
-					{ "time": 0.1, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0058" },
-					{ "time": 0.1667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0060" },
-					{ "time": 0.2667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0062" },
-					{ "time": 0.3333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0064" },
-					{ "time": 0.4333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0066" },
-					{ "time": 0.5, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0068" },
-					{ "time": 0.6, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0070" },
-					{ "time": 0.6667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0072" },
-					{ "time": 0.7667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0074" },
-					{ "time": 0.8667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0076" },
-					{ "time": 0.9667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0078" },
-					{ "time": 1.0333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0080" },
-					{ "time": 1.1333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0082" },
-					{ "time": 1.2, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0084" },
-					{ "time": 1.3, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0086" },
-					{ "time": 1.3667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0088" },
-					{ "time": 1.4667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0090" },
-					{ "time": 1.5333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0092" },
-					{ "time": 1.6333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0094" },
-					{ "time": 1.7, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0096" }
+					{ "time": 0.0667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0058" },
+					{ "time": 0.1333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0060" },
+					{ "time": 0.2, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0062" },
+					{ "time": 0.2667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0064" },
+					{ "time": 0.3333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0066" },
+					{ "time": 0.4, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0068" },
+					{ "time": 0.4667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0070" },
+					{ "time": 0.5333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0072" },
+					{ "time": 0.6, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0074" },
+					{ "time": 0.6667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0076" },
+					{ "time": 0.7333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0078" },
+					{ "time": 0.8, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0080" },
+					{ "time": 0.8667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0082" },
+					{ "time": 0.9333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0084" },
+					{ "time": 1, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0086" },
+					{ "time": 1.0667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0088" },
+					{ "time": 1.1333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0090" },
+					{ "time": 1.2, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0092" },
+					{ "time": 1.2667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0094" },
+					{ "time": 1.3333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0096" },
+					{ "time": 1.4, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0056" },
+					{ "time": 1.4667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0058" },
+					{ "time": 1.5333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0060" },
+					{ "time": 1.6, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0062" },
+					{ "time": 1.6667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0064" },
+					{ "time": 1.7333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0066" },
+					{ "time": 1.8, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0068" },
+					{ "time": 1.8667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0070" },
+					{ "time": 1.9333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0072" }
 				]
 			},
 			"dam-trai-dam-phai-vang-vot-event-freespin-highlighted": {
 				"color": [
 					{ "color": "ffffff00" },
-					{ "time": 0.3333, "color": "ffffffff" },
-					{ "time": 0.6667, "color": "ffffff00" },
-					{ "time": 0.8667, "color": "ffffffff" },
-					{ "time": 1.0333, "color": "ffffff00" },
-					{ "time": 1.3667, "color": "ffffffff" },
-					{ "time": 1.7, "color": "ffffff00" }
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.5333, "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 0.8, "color": "ffffff00" },
+					{ "time": 1.0667, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 2, "color": "ffffff00" }
 				],
 				"attachment": [
 					{ "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0056" },
-					{ "time": 0.1, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0058" },
-					{ "time": 0.1667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0060" },
-					{ "time": 0.2667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0062" },
-					{ "time": 0.3333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0064" },
-					{ "time": 0.4333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0066" },
-					{ "time": 0.5, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0068" },
-					{ "time": 0.6, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0070" },
-					{ "time": 0.6667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0072" },
-					{ "time": 0.7667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0074" },
-					{ "time": 0.8667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0076" },
-					{ "time": 0.9667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0078" },
-					{ "time": 1.0333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0080" },
-					{ "time": 1.1333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0082" },
-					{ "time": 1.2, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0084" },
-					{ "time": 1.3, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0086" },
-					{ "time": 1.3667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0088" },
-					{ "time": 1.4667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0090" },
-					{ "time": 1.5333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0092" },
-					{ "time": 1.6333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0094" },
-					{ "time": 1.7, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0096" }
+					{ "time": 0.0667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0058" },
+					{ "time": 0.1333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0060" },
+					{ "time": 0.2, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0062" },
+					{ "time": 0.2667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0064" },
+					{ "time": 0.3333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0066" },
+					{ "time": 0.4, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0068" },
+					{ "time": 0.4667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0070" },
+					{ "time": 0.5333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0072" },
+					{ "time": 0.6, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0074" },
+					{ "time": 0.6667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0076" },
+					{ "time": 0.7333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0078" },
+					{ "time": 0.8, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0080" },
+					{ "time": 0.8667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0082" },
+					{ "time": 0.9333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0084" },
+					{ "time": 1, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0086" },
+					{ "time": 1.0667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0088" },
+					{ "time": 1.1333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0090" },
+					{ "time": 1.2, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0092" },
+					{ "time": 1.2667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0094" },
+					{ "time": 1.3333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0096" },
+					{ "time": 1.4, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0056" },
+					{ "time": 1.4667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0058" },
+					{ "time": 1.5333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0060" },
+					{ "time": 1.6, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0062" },
+					{ "time": 1.6667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0064" },
+					{ "time": 1.7333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0066" },
+					{ "time": 1.8, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0068" },
+					{ "time": 1.8667, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0070" },
+					{ "time": 1.9333, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0072" },
+					{ "time": 2, "name": "multiplier-gong-dien-sam-set/gong-dien-sam-set_0000_0074" }
 				]
 			}
 		}
@@ -1117,7 +1138,7 @@
 			}
 		}
 	},
-	"multiplier-show": {
+	"multiplier": {
 		"slots": {
 			"gong-dien-hai-ban-tay-multiplier-show": {
 				"color": [
