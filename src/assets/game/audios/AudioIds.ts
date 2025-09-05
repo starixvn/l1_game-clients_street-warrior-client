@@ -1,6 +1,5 @@
 export enum AudioIds {
     BIG_WIN = "big-win",
-    BIG_WIN_INCREMENT_ENDED = "big-win-increment-ended",
     CLICK = "click",
     WIN = "win",
     FREESPIN = "freespin",
@@ -17,7 +16,6 @@ export enum AudioIds {
     SPINNING_TURBO = "spinning-turbo",
     SYMBOL_MATCH = "symbol-match",
     TRANSITION = "transition",
-    WINNING_LEVEL_UP = "winning-level-up",
     BGM_FREESPIN = "bgm-freespin",
     CLICK_SYMBOL = "click-symbol",
     MULTIPLIER_LAND = "multiplier-land",
