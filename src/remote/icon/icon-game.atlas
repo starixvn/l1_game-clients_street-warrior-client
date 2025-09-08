@@ -1,6 +1,6 @@
 
 icon-game.webp
-size: 1592,1032
+size: 1635,1032
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -19,8 +19,8 @@ body
   offset: 0, 0
   index: -1
 color
-  rotate: true
-  xy: 1442, 610
+  rotate: false
+  xy: 1296, 285
   size: 196, 142
   orig: 196, 142
   offset: 0, 0
@@ -33,99 +33,99 @@ eyes
   offset: 0, 0
   index: -1
 hair
-  rotate: true
-  xy: 1334, 899
+  rotate: false
+  xy: 1015, 625
   size: 132, 104
   orig: 133, 105
   offset: 1, 0
   index: -1
 head
-  rotate: true
-  xy: 1277, 622
+  rotate: false
+  xy: 297, 6
   size: 107, 163
   orig: 108, 163
   offset: 1, 0
   index: -1
 left-arm
   rotate: false
-  xy: 1401, 408
+  xy: 1494, 227
   size: 127, 200
   orig: 127, 200
   offset: 0, 0
   index: -1
 left-armor
   rotate: false
-  xy: 495, 195
+  xy: 890, 623
   size: 123, 106
   orig: 123, 106
   offset: 0, 0
   index: -1
 left-hand
-  rotate: true
-  xy: 1442, 808
+  rotate: false
+  xy: 406, 27
   size: 223, 142
   orig: 223, 142
   offset: 0, 0
   index: -1
 lightning/lightning1_00
   rotate: false
-  xy: 495, 303
+  xy: 665, 303
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_17
   rotate: false
-  xy: 495, 303
+  xy: 665, 303
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_01
   rotate: false
-  xy: 626, 1
+  xy: 692, 1
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_02
   rotate: false
-  xy: 626, 1
+  xy: 692, 1
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_03
   rotate: false
-  xy: 626, 1
+  xy: 692, 1
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_04
   rotate: false
-  xy: 626, 1
+  xy: 692, 1
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_05
   rotate: false
-  xy: 626, 1
+  xy: 692, 1
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_06
   rotate: false
-  xy: 626, 1
+  xy: 692, 1
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_07
   rotate: false
-  xy: 626, 1
+  xy: 692, 1
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
@@ -139,56 +139,56 @@ lightning/lightning1_08
   index: -1
 lightning/lightning1_09
   rotate: false
-  xy: 797, 307
+  xy: 967, 321
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_10
   rotate: false
-  xy: 797, 307
+  xy: 967, 321
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_11
   rotate: false
-  xy: 928, 5
+  xy: 1032, 731
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_12
   rotate: false
-  xy: 1032, 731
+  xy: 1334, 731
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_13
   rotate: false
-  xy: 1099, 320
+  xy: 994, 19
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_14
   rotate: false
-  xy: 1230, 18
+  xy: 1296, 429
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_15
   rotate: false
-  xy: 1230, 18
+  xy: 1296, 429
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 lightning/lightning1_16
   rotate: false
-  xy: 1230, 18
+  xy: 1296, 429
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
@@ -201,15 +201,15 @@ lightoverlay
   offset: 0, 0
   index: -1
 right-arm
-  rotate: true
-  xy: 890, 616
+  rotate: false
+  xy: 1405, 42
   size: 113, 183
   orig: 113, 184
   offset: 0, 0
   index: -1
 right-hand2
-  rotate: true
-  xy: 1075, 622
+  rotate: false
+  xy: 1296, 25
   size: 107, 200
   orig: 107, 200
   offset: 0, 0
@@ -223,14 +223,14 @@ sclera
   index: -1
 shirrt2
   rotate: false
-  xy: 1532, 366
+  xy: 631, 32
   size: 59, 242
   orig: 63, 242
   offset: 4, 0
   index: -1
 shirt1
-  rotate: true
-  xy: 297, 1
+  rotate: false
+  xy: 495, 276
   size: 168, 327
   orig: 168, 327
   offset: 0, 0
