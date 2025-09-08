@@ -4,6 +4,11 @@
         "path": "big-win",
         "isLazyLoad": true
     },
+    "pund": {
+        "bundle": "resources",
+        "path": "pund",
+        "isLazyLoad": true
+    },
     "click": {
         "bundle": "resources",
         "path": "click",
