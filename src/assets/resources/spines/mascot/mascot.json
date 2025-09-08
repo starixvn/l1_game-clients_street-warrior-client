@@ -1,14 +1,14 @@
 {
-"skeleton": { "hash": "3OtjMuM50QEewEVqLjg/j9BrEoQ", "spine": "3.8.99", "images": "./images/", "audio": "" },
+"skeleton": { "hash": "++dkjzTsPlQj/rV1EqyTaJO8OnU", "spine": "3.8.99", "images": "./images/", "audio": "" },
 "bones": [
 	{ "name": "root" },
-	{ "name": "chuong-dien-sam-set-event", "parent": "root", "x": 150.57, "y": 265.53 },
-	{ "name": "gong-dien-hai-ban-tay-multiplier-show", "parent": "root", "x": -35.64, "y": 267.44 },
-	{ "name": "dam-trai-dam-phai-vang-vot-event-freespin", "parent": "root", "x": 11.75, "y": 257.76 },
-	{ "name": "dung-yen-thu-the", "parent": "root", "y": 303.87, "scaleX": 0.92, "scaleY": 0.92 },
-	{ "name": "chuong-dien-sam-set-event-highlight", "parent": "root", "x": 150.57, "y": 265.53 },
-	{ "name": "dam-trai-dam-phai-vang-vot-event-freespin-highlighted", "parent": "root", "x": 12.2, "y": 257.76 },
-	{ "name": "gong-dien-hai-ban-tay-multiplier-show-highlighted", "parent": "root", "x": -35.64, "y": 267.44 },
+	{ "name": "chuong-dien-sam-set-event", "parent": "root", "x": 187.15, "y": 254.96 },
+	{ "name": "gong-dien-hai-ban-tay-multiplier-show", "parent": "root", "x": -35.64, "y": 256.87 },
+	{ "name": "dam-trai-dam-phai-vang-vot-event-freespin", "parent": "root", "x": 11.75, "y": 247.19 },
+	{ "name": "dung-yen-thu-the", "parent": "root", "y": 294.14, "scaleX": 0.92, "scaleY": 0.92 },
+	{ "name": "chuong-dien-sam-set-event-highlight", "parent": "root", "x": 187.15, "y": 254.96 },
+	{ "name": "dam-trai-dam-phai-vang-vot-event-freespin-highlighted", "parent": "root", "x": 12.2, "y": 247.19 },
+	{ "name": "gong-dien-hai-ban-tay-multiplier-show-highlighted", "parent": "root", "x": -35.64, "y": 256.87 },
 	{ "name": "vfx-tat-ca-lua", "parent": "root", "y": 19.85 },
 	{
 		"name": "vfx-lua-chay",
