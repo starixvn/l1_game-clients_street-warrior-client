@@ -23,14 +23,14 @@ export default class Game extends CascadingSlotGame {
     @render(CascadingUIStore, (store) => store.haveBigWin)
     async renderHaveBigWin(haveBigWin: boolean) {
         if (haveBigWin) {
-            AudioUtils.playSFX(AudioIds.PUND);
+            AudioUtils.playSFX(AudioIds.PUND_BIGWIN);
         }
     }
 
     @render(CascadingUIStore, (store) => store.isShowFreeSpinEffect)
     async renderIsShowFreeSpinEffect(isShowFreeSpinEffect: boolean) {
         if (isShowFreeSpinEffect) {
-            AudioUtils.playSFX(AudioIds.PUND);
+            AudioUtils.playSFX(AudioIds.PUND_FREESPIN);
         }
     }
 }

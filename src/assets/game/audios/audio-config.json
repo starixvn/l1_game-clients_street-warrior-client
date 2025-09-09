@@ -4,9 +4,14 @@
         "path": "big-win",
         "isLazyLoad": true
     },
-    "pund": {
+    "pund-freespin": {
         "bundle": "resources",
-        "path": "pund",
+        "path": "pund-freespin",
+        "isLazyLoad": true
+    },
+    "pund-bigwin": {
+        "bundle": "resources",
+        "path": "pund-bigwin",
         "isLazyLoad": true
     },
     "click": {
