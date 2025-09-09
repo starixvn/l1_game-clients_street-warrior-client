@@ -39,7 +39,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0,
+      "y": -190,
       "z": 0
     },
     "_lrot": {
@@ -79,44 +79,19 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 409.1499938964844,
-      "height": 828.1400146484375
+      "width": 100,
+      "height": 100
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0.3688622764763583,
-      "y": 0.429842774077062
+      "x": 0.5,
+      "y": 0.5
     },
     "_id": ""
   },
   {
     "__type__": "cc.CompPrefabInfo",
     "fileId": "ceGvFSfTNDkZ5FyFefajK5"
-  },
-  {
-    "__type__": "437cfF1k7hDfqKak/S36QEr",
-    "_name": "",
-    "_objFlags": 0,
-    "__editorExtras__": {},
-    "node": {
-      "__id__": 1
-    },
-    "_enabled": true,
-    "__prefab": {
-      "__id__": 5
-    },
-    "spineMascot": {
-      "__id__": 6
-    },
-    "gameInfo": {
-      "__uuid__": "5f4849f3-ae3e-4ff1-a0e5-18c01ece03dc",
-      "__expectedType__": "cc.JsonAsset"
-    },
-    "_id": ""
-  },
-  {
-    "__type__": "cc.CompPrefabInfo",
-    "fileId": "f72P27PGZGJZzUDnGwL91+"
   },
   {
     "__type__": "sp.Skeleton",
@@ -128,7 +103,7 @@
     },
     "_enabled": true,
     "__prefab": {
-      "__id__": 7
+      "__id__": 5
     },
     "_customMaterial": null,
     "_srcBlendFactor": 2,
@@ -145,7 +120,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "",
+    "defaultAnimation": "<None>",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
@@ -173,7 +148,7 @@
     },
     "_enabled": true,
     "__prefab": {
-      "__id__": 9
+      "__id__": 7
     },
     "_opacity": 0,
     "_id": ""
@@ -181,6 +156,27 @@
   {
     "__type__": "cc.CompPrefabInfo",
     "fileId": "13pxz8foVG/ptUPcsr9J7z"
+  },
+  {
+    "__type__": "fa322BlTuhEwboISZ05IQjl",
+    "_name": "",
+    "_objFlags": 0,
+    "__editorExtras__": {},
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "__prefab": {
+      "__id__": 9
+    },
+    "spineMascot": {
+      "__id__": 4
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.CompPrefabInfo",
+    "fileId": "8fKKhPe6FKLZzwr3fwAs0m"
   },
   {
     "__type__": "cc.PrefabInfo",

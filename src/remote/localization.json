@@ -1,22 +1,30 @@
 {
     "lobbyNames": {
-        "en": "Wukong's Revenge",
-        "id": "Pembalasan Wukong",
-        "th": "การล้างแค้น\nของหงอคง",
-        "vi": "Ngộ Không Báo Thù",
-        "zh_cn": "悟空复仇",
-        "zh_tw": "悟空復仇",
-        "ja": "Wukong's Revenge",
-        "es": "Wukong's Revenge"
+        "en": "Street Warrior",
+        "es": "Street Warrior",
+        "fil_ph": "Mandirigma ng Kalye",
+        "id": "Street Warrior",
+        "ja": "ストリート  \nウォリアー",
+        "ko": "스트리트 워리어",
+        "pt_br": "Street Warrior",
+        "th": "Street Warrior",
+        "tr": "Sokak Savaşçısı",
+        "vi": "Võ Đài\nBóng Tối",
+        "zh_cn": "街頭戰士",
+        "zh_tw": "街頭戰士"
     },
     "gameNames": {
-        "en": "Wukong's Revenge",
-        "id": "Pembalasan Wukong",
-        "th": "การล้างแค้นของหงอคง",
-        "vi": "Ngộ Không Báo Thù",
-        "zh_cn": "悟空复仇",
-        "zh_tw": "悟空復仇",
-        "ja": "Wukong's Revenge",
-        "es": "Wukong's Revenge"
+        "en": "Street Warrior",
+        "es": "Street Warrior",
+        "fil_ph": "Guererong Kalye",
+        "id": "Street Warrior",
+        "ja": "ストリートウォリアー",
+        "ko": "스트리트 워리어",
+        "pt_br": "Street Warrior",
+        "th": "Street Warrior",
+        "tr": "Sokak Savaşçısı",
+        "vi": "Võ Đài Bóng Tối",
+        "zh_cn": "街頭戰士",
+        "zh_tw": "街頭戰士"
     }
 }

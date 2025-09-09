@@ -1,145 +1,145 @@
 
 effect-multiplier.webp
-size: 1906,1990
+size: 1914,2004
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 lightning_1
   rotate: true
-  xy: 0, 1660
+  xy: 1, 1673
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
 lightning_10
   rotate: true
-  xy: 1404, 1660
-  size: 330, 400
+  xy: 1405, 1671
+  size: 332, 402
   orig: 332, 402
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 lightning_11
   rotate: true
-  xy: 1404, 1328
-  size: 330, 400
+  xy: 1405, 1337
+  size: 332, 402
   orig: 332, 402
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 lightning_12
   rotate: true
-  xy: 1404, 996
-  size: 330, 400
+  xy: 1405, 1003
+  size: 332, 402
   orig: 332, 402
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 lightning_13
   rotate: true
-  xy: 1404, 664
-  size: 330, 400
+  xy: 1405, 669
+  size: 332, 402
   orig: 332, 402
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 lightning_14
   rotate: true
-  xy: 702, 332
-  size: 330, 400
+  xy: 703, 343
+  size: 332, 402
   orig: 332, 402
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 lightning_15
   rotate: true
-  xy: 1104, 332
-  size: 330, 400
+  xy: 1107, 335
+  size: 332, 402
   orig: 332, 402
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 lightning_16
   rotate: true
-  xy: 1506, 332
-  size: 330, 400
+  xy: 1511, 335
+  size: 332, 402
   orig: 332, 402
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 lightning_17
   rotate: true
-  xy: 0, 0
-  size: 330, 400
+  xy: 1, 11
+  size: 332, 402
   orig: 332, 402
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 lightning_18
   rotate: true
-  xy: 402, 0
-  size: 330, 400
+  xy: 405, 9
+  size: 332, 402
   orig: 332, 402
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 lightning_19
   rotate: true
-  xy: 804, 0
-  size: 330, 400
+  xy: 809, 1
+  size: 332, 402
   orig: 332, 402
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 lightning_2
   rotate: true
-  xy: 702, 1660
+  xy: 703, 1673
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
 lightning_20
   rotate: true
-  xy: 1206, 0
-  size: 330, 400
+  xy: 1213, 1
+  size: 332, 402
   orig: 332, 402
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 lightning_3
   rotate: true
-  xy: 0, 1328
+  xy: 1, 1341
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
 lightning_4
   rotate: true
-  xy: 702, 1328
+  xy: 703, 1341
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
 lightning_5
   rotate: true
-  xy: 0, 996
+  xy: 1, 1009
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
 lightning_6
   rotate: true
-  xy: 702, 996
+  xy: 703, 1009
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
 lightning_7
   rotate: true
-  xy: 0, 664
+  xy: 1, 677
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
 lightning_8
   rotate: true
-  xy: 702, 664
+  xy: 703, 677
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
   index: -1
 lightning_9
   rotate: true
-  xy: 0, 332
+  xy: 1, 345
   size: 330, 700
   orig: 330, 700
   offset: 0, 0
